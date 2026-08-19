@@ -1,26 +1,18 @@
+# CPU-only torch wheel — much smaller/faster to install than the default
+# CUDA-enabled wheel, and this app never uses a GPU.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 # --- Core Application ---
 streamlit
 pandas
 numpy
-python-dotenv
-
-# --- Database / Storage ---
-sqlite3-binary
 
 # --- Visualization ---
 matplotlib
 seaborn
 
-# --- LLM / NLP / Intent Classification ---
-transformers
+# --- NLP / Intent Classification ---
 torch
+transformers
 sentencepiece
 huggingface-hub
-
-# --- Machine Learning (training notebook) ---
-scikit-learn
-joblib
-
-# --- Notebook Support (model_training.ipynb) ---
-jupyter
-notebook

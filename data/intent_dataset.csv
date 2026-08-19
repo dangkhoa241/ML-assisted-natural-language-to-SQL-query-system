@@ -1,1201 +1,2001 @@
 text,label
-compare B+ patients based on their test result,compare
-patients diagnosed with Metformin,filter
-trend of patient admissions,trend
-show Aetna patients,filter
-show average billing for insurance provider patients,aggregate
-how many Ibuprofen patients,count
-patients diagnosed with AB-,filter
-count B+ cases,count
-billing trend for flu,trend
-patients diagnosed with AB-,filter
-list Blue Cross cases,filter
-number of female patients,count
-count O+ cases,count
-compare hypertension cases by medication,compare
-find all referral patients,filter
-average age grouped by blood type,aggregate
-patients diagnosed with Blue Cross,filter
-average billing amount by hospital,aggregate
-trend of patient admissions,trend
-show arthritis patients,filter
-find all AB+ patients,filter
-compare Blue Cross cases by gender,compare
-compare asthma patients based on test result,compare
-billing trend for A+,trend
-how many positive patients,count
-billing trend for AB-,trend
-patients diagnosed with negative,filter
-compare Blue Cross cases by admission type,compare
-show patients with arthritis,filter
-show trend of A+ cases,trend
-average age grouped by gender,aggregate
-billing trend for emergency,trend
-compare Metformin patients based on their gender,compare
-compare male cases by insurance provider,compare
-show patients with O+,filter
-number of covid patients,count
-how many B- patients,count
-compare flu patients based on their admission type,compare
-compare asthma patients based on their insurance provider,compare
-compare negative patients based on their medical condition,compare
-billing trend for UnitedHealth,trend
-list emergency cases,filter
-number of Blue Cross patients,count
-show average billing for medication patients,aggregate
-show trend of referral cases,trend
-number of Ibuprofen patients,count
-patients diagnosed with Ibuprofen,filter
-show female patients,filter
-show AB- patients,filter
-billing trend for arthritis,trend
-show negative patients,filter
-compare patients with arthritis based on admission type,compare
-compare Blue Cross patients based on their blood type,compare
-compare patients with negative based on hospital,compare
-average age grouped by insurance provider,aggregate
-show trend of positive cases,trend
-number of hypertension patients,count
-show trend of B- cases,trend
-show average billing for gender patients,aggregate
-show average billing for gender patients,aggregate
-number of hypertension patients,count
-compare patients with UnitedHealth based on insurance provider,compare
-show diabetes patients,filter
-find all referral patients,filter
-find all female patients,filter
-compare male patients based on their admission type,compare
-show average billing for gender patients,aggregate
-show Aspirin patients,filter
-show average billing for gender patients,aggregate
-trend of patient admissions,trend
-how many Aetna patients,count
-number of UnitedHealth patients,count
-compare B- patients based on their test result,compare
-compare male patients based on gender,compare
-number of O- patients,count
-how many Metformin patients,count
-list routine cases,filter
-how many AB+ patients,count
-show trend of flu cases,trend
-trend of patient admissions,trend
-show average billing for blood type patients,aggregate
-show trend of UnitedHealth cases,trend
-compare patients with B+ based on test result,compare
-show trend of negative cases,trend
-billing trend for Aspirin,trend
-average billing amount by hospital,aggregate
-compare B- patients grouped by admission type,compare
-find all diabetes patients,filter
-average billing amount by insurance provider,aggregate
-average age grouped by medical condition,aggregate
-patients diagnosed with flu,filter
-compare patients with UnitedHealth based on hospital,compare
-show Ibuprofen patients,filter
-compare AB+ patients based on admission type,compare
-patients diagnosed with Metformin,filter
-show trend of UnitedHealth cases,trend
-compare Aetna patients grouped by medication,compare
-show asthma patients,filter
-show patients with Ibuprofen,filter
-trend of patient admissions,trend
-compare A+ patients grouped by medical condition,compare
-billing trend for arthritis,trend
-compare Aetna patients grouped by insurance provider,compare
-how many arthritis patients,count
-list Ibuprofen cases,filter
-compare patients with asthma based on medication,compare
-count female cases,count
-compare patients with routine based on admission type,compare
-count A- cases,count
-count referral cases,count
-compare patients with Ibuprofen based on insurance provider,compare
-trend of patient admissions,trend
-compare routine patients based on their test result,compare
-number of A+ patients,count
-count asthma cases,count
-show patients with Insulin,filter
-find all referral patients,filter
-compare flu patients based on their medical condition,compare
-how many O+ patients,count
-average billing amount by insurance provider,aggregate
-show average billing for medical condition patients,aggregate
-patients diagnosed with positive,filter
-compare Aspirin patients based on their insurance provider,compare
-compare female patients based on their medication,compare
-list A+ cases,filter
-compare female patients based on their admission type,compare
-show AB- patients,filter
-average age grouped by medication,aggregate
-compare Metformin cases by insurance provider,compare
-list Metformin cases,filter
-billing trend for A+,trend
-average billing amount by admission type,aggregate
-average billing amount by hospital,aggregate
-show patients with asthma,filter
-show Insulin patients,filter
-count Insulin cases,count
-show average billing for admission type patients,aggregate
-trend of patient admissions,trend
-average billing amount by admission type,aggregate
-show average billing for medication patients,aggregate
-show A- patients,filter
-compare A+ patients based on their blood type,compare
-show average billing for test result patients,aggregate
-find all A- patients,filter
-show average billing for insurance provider patients,aggregate
-average billing amount by admission type,aggregate
-show trend of Blue Cross cases,trend
-patients diagnosed with positive,filter
-count emergency cases,count
-patients diagnosed with AB+,filter
-average age grouped by medication,aggregate
-billing trend for A+,trend
-show average billing for medical condition patients,aggregate
-show trend of asthma cases,trend
-billing trend for A-,trend
-patients diagnosed with O-,filter
-patients diagnosed with A-,filter
-compare referral patients based on insurance provider,compare
-how many female patients,count
-compare Blue Cross patients based on their blood type,compare
-billing trend for AB+,trend
-show patients with Metformin,filter
-average age grouped by gender,aggregate
-compare patients with arthritis based on medication,compare
-show A- patients,filter
-number of male patients,count
-number of female patients,count
-show average billing for medication patients,aggregate
-trend of patient admissions,trend
-show average billing for medication patients,aggregate
-compare A+ patients based on blood type,compare
-compare Aetna cases by medical condition,compare
-average age grouped by gender,aggregate
-number of covid patients,count
-show trend of covid cases,trend
-patients diagnosed with asthma,filter
-average age grouped by gender,aggregate
-compare patients with A+ based on hospital,compare
-show routine patients,filter
-billing trend for Aspirin,trend
-compare Metformin patients based on their blood type,compare
-number of covid patients,count
-number of Blue Cross patients,count
-number of diabetes patients,count
-show average billing for blood type patients,aggregate
-average billing amount by test result,aggregate
-number of UnitedHealth patients,count
-list arthritis cases,filter
-how many referral patients,count
-how many male patients,count
-average age grouped by admission type,aggregate
-find all emergency patients,filter
-count emergency cases,count
-average billing amount by blood type,aggregate
-compare hypertension patients based on medical condition,compare
-show trend of covid cases,trend
-show trend of asthma cases,trend
-count asthma cases,count
-trend of patient admissions,trend
-how many Cigna patients,count
-show average billing for insurance provider patients,aggregate
-average age grouped by insurance provider,aggregate
-how many routine patients,count
-billing trend for O-,trend
-compare Cigna patients grouped by hospital,compare
-show routine patients,filter
-compare Insulin cases by medical condition,compare
-show average billing for gender patients,aggregate
-show trend of arthritis cases,trend
-show average billing for hospital patients,aggregate
-billing trend for diabetes,trend
-show average billing for blood type patients,aggregate
-compare B- patients based on medication,compare
-show patients with male,filter
-average billing amount by gender,aggregate
-billing trend for AB+,trend
-billing trend for O+,trend
-number of asthma patients,count
-compare Aetna patients based on test result,compare
-billing trend for routine,trend
-billing trend for Aetna,trend
-show trend of routine cases,trend
-show average billing for medical condition patients,aggregate
-how many emergency patients,count
-list routine cases,filter
-patients diagnosed with O-,filter
-list Insulin cases,filter
-billing trend for Aspirin,trend
-count emergency cases,count
-show patients with Insulin,filter
-number of UnitedHealth patients,count
-compare patients with AB- based on blood type,compare
-trend of patient admissions,trend
-number of emergency patients,count
-how many referral patients,count
-how many AB+ patients,count
-compare O+ patients based on their gender,compare
-average billing amount by test result,aggregate
-number of routine patients,count
-count referral cases,count
-show trend of routine cases,trend
-how many covid patients,count
-compare covid patients based on their medication,compare
-number of routine patients,count
-billing trend for positive,trend
-compare female cases by medical condition,compare
-find all O- patients,filter
-compare patients with asthma based on admission type,compare
-show average billing for medication patients,aggregate
-show trend of covid cases,trend
-trend of patient admissions,trend
-compare patients with routine based on admission type,compare
-average age grouped by blood type,aggregate
-compare male patients based on their blood type,compare
-billing trend for UnitedHealth,trend
-compare male patients based on their insurance provider,compare
-compare negative cases by medical condition,compare
-trend of patient admissions,trend
-number of routine patients,count
-compare AB- patients based on their insurance provider,compare
-how many negative patients,count
-number of A- patients,count
-number of Metformin patients,count
-trend of patient admissions,trend
-compare Blue Cross patients based on gender,compare
-average billing amount by medical condition,aggregate
-compare Ibuprofen patients grouped by gender,compare
-compare O- cases by gender,compare
-list positive cases,filter
-average age grouped by medication,aggregate
-show patients with hypertension,filter
-trend of patient admissions,trend
-billing trend for arthritis,trend
-billing trend for female,trend
-show trend of negative cases,trend
-patients diagnosed with hypertension,filter
-compare female patients based on their test result,compare
-patients diagnosed with Metformin,filter
-compare AB- patients based on blood type,compare
-show patients with male,filter
-show trend of Cigna cases,trend
-show average billing for medication patients,aggregate
-show Aetna patients,filter
-how many O- patients,count
-billing trend for covid,trend
-billing trend for asthma,trend
-how many Aetna patients,count
-how many flu patients,count
-show patients with B+,filter
-count hypertension cases,count
-average age grouped by medication,aggregate
-compare A+ cases by insurance provider,compare
-compare patients with Cigna based on insurance provider,compare
-patients diagnosed with routine,filter
-billing trend for hypertension,trend
-find all Blue Cross patients,filter
-average billing amount by blood type,aggregate
-average age grouped by test result,aggregate
-average age grouped by insurance provider,aggregate
-show trend of A- cases,trend
-list emergency cases,filter
-show trend of Ibuprofen cases,trend
-show average billing for medication patients,aggregate
-compare hypertension patients based on their medical condition,compare
-compare Blue Cross patients grouped by hospital,compare
-list asthma cases,filter
-average age grouped by admission type,aggregate
-average billing amount by hospital,aggregate
-number of male patients,count
-list Ibuprofen cases,filter
-list UnitedHealth cases,filter
-number of routine patients,count
-average billing amount by medical condition,aggregate
-trend of patient admissions,trend
-count positive cases,count
-count AB+ cases,count
-average age grouped by test result,aggregate
-count Metformin cases,count
-how many AB- patients,count
-number of Insulin patients,count
-compare patients with female based on gender,compare
-trend of patient admissions,trend
-average billing amount by admission type,aggregate
-patients diagnosed with AB+,filter
-show B- patients,filter
-average billing amount by admission type,aggregate
-show A- patients,filter
-compare B+ cases by test result,compare
-show patients with covid,filter
-trend of patient admissions,trend
-trend of patient admissions,trend
-billing trend for Insulin,trend
-trend of patient admissions,trend
-show patients with negative,filter
-average billing amount by medical condition,aggregate
-show trend of O- cases,trend
-average age grouped by test result,aggregate
-patients diagnosed with negative,filter
-find all female patients,filter
-how many B- patients,count
-show referral patients,filter
-find all arthritis patients,filter
-average age grouped by gender,aggregate
-find all Aetna patients,filter
-list diabetes cases,filter
-show trend of Ibuprofen cases,trend
-patients diagnosed with flu,filter
-show trend of A+ cases,trend
-find all B+ patients,filter
-show trend of Aetna cases,trend
-average billing amount by insurance provider,aggregate
-patients diagnosed with Aetna,filter
-count diabetes cases,count
-show patients with hypertension,filter
-show average billing for test result patients,aggregate
-patients diagnosed with routine,filter
-show trend of Cigna cases,trend
-average billing amount by hospital,aggregate
-show average billing for insurance provider patients,aggregate
-compare asthma patients grouped by medication,compare
-show average billing for hospital patients,aggregate
-compare emergency patients based on their admission type,compare
-how many O+ patients,count
-compare arthritis cases by medical condition,compare
-billing trend for AB-,trend
-compare O+ patients based on their admission type,compare
-average age grouped by insurance provider,aggregate
-compare Metformin cases by hospital,compare
-trend of patient admissions,trend
-compare Aspirin patients based on blood type,compare
-compare patients with Aspirin based on insurance provider,compare
-list O+ cases,filter
-find all hypertension patients,filter
-average billing amount by blood type,aggregate
-compare Aetna patients based on their medication,compare
-show negative patients,filter
-compare arthritis patients grouped by blood type,compare
-compare Cigna cases by medical condition,compare
-compare O+ patients based on their medical condition,compare
-compare patients with Aspirin based on insurance provider,compare
-compare Metformin patients grouped by hospital,compare
-find all hypertension patients,filter
-list positive cases,filter
-how many arthritis patients,count
-count Blue Cross cases,count
-compare patients with AB- based on medication,compare
-average age grouped by insurance provider,aggregate
-average billing amount by medical condition,aggregate
-trend of patient admissions,trend
-find all arthritis patients,filter
-compare UnitedHealth patients based on their test result,compare
-billing trend for A+,trend
-show trend of hypertension cases,trend
-average age grouped by insurance provider,aggregate
-average age grouped by insurance provider,aggregate
-show patients with UnitedHealth,filter
-average billing amount by medication,aggregate
-count AB- cases,count
-number of hypertension patients,count
-list Metformin cases,filter
-show trend of Metformin cases,trend
-compare emergency patients based on their blood type,compare
-compare Cigna patients grouped by test result,compare
-how many female patients,count
-show Cigna patients,filter
-count AB- cases,count
-compare patients with negative based on insurance provider,compare
-find all arthritis patients,filter
-count Metformin cases,count
-compare AB+ patients grouped by gender,compare
-average billing amount by blood type,aggregate
-show male patients,filter
-compare patients with female based on test result,compare
-average age grouped by insurance provider,aggregate
-find all Cigna patients,filter
-count flu cases,count
-patients diagnosed with Metformin,filter
-average age grouped by hospital,aggregate
-show average billing for gender patients,aggregate
-show average billing for admission type patients,aggregate
-how many A- patients,count
-find all O+ patients,filter
-show average billing for gender patients,aggregate
-compare B- patients based on their blood type,compare
-average billing amount by admission type,aggregate
-show O+ patients,filter
-show trend of covid cases,trend
-show patients with diabetes,filter
-billing trend for female,trend
-show average billing for medical condition patients,aggregate
-show trend of B- cases,trend
-compare Blue Cross patients based on test result,compare
-show trend of O+ cases,trend
-show trend of Blue Cross cases,trend
-show trend of positive cases,trend
-average billing amount by gender,aggregate
-show patients with Aetna,filter
-compare hypertension patients based on hospital,compare
-compare positive cases by admission type,compare
-billing trend for hypertension,trend
-compare A- patients based on their medical condition,compare
-average age grouped by hospital,aggregate
-count arthritis cases,count
-show average billing for blood type patients,aggregate
-number of referral patients,count
-compare patients with flu based on hospital,compare
-average age grouped by blood type,aggregate
-compare Aspirin cases by medical condition,compare
-how many Aetna patients,count
-show average billing for insurance provider patients,aggregate
-number of Metformin patients,count
-show arthritis patients,filter
-list referral cases,filter
-find all UnitedHealth patients,filter
-compare Insulin patients based on hospital,compare
-compare routine patients based on their medication,compare
-number of covid patients,count
-show trend of B+ cases,trend
-show trend of A+ cases,trend
-compare patients with negative based on hospital,compare
-compare hypertension patients based on their blood type,compare
-average billing amount by admission type,aggregate
-trend of patient admissions,trend
-average billing amount by admission type,aggregate
-how many hypertension patients,count
-count Aetna cases,count
-number of B- patients,count
-find all Insulin patients,filter
-billing trend for female,trend
-count positive cases,count
-find all diabetes patients,filter
-number of B+ patients,count
-trend of patient admissions,trend
-show average billing for medical condition patients,aggregate
-compare male cases by admission type,compare
-show average billing for test result patients,aggregate
-compare female cases by test result,compare
-how many A+ patients,count
-count Ibuprofen cases,count
-how many diabetes patients,count
-compare positive patients based on medical condition,compare
-average billing amount by insurance provider,aggregate
-average billing amount by insurance provider,aggregate
-compare Blue Cross patients grouped by test result,compare
-find all Blue Cross patients,filter
-compare asthma patients based on their hospital,compare
-show trend of hypertension cases,trend
-count Aetna cases,count
-count arthritis cases,count
-show patients with AB+,filter
-number of AB+ patients,count
-compare Blue Cross cases by insurance provider,compare
-list asthma cases,filter
-show average billing for gender patients,aggregate
-average billing amount by medication,aggregate
-show patients with O-,filter
-show average billing for medical condition patients,aggregate
-show trend of hypertension cases,trend
-compare referral patients based on their gender,compare
-average billing amount by medication,aggregate
-compare Aetna patients based on insurance provider,compare
-trend of patient admissions,trend
-show trend of negative cases,trend
-compare positive patients based on medication,compare
-patients diagnosed with referral,filter
-compare covid patients grouped by medical condition,compare
-patients diagnosed with negative,filter
-count diabetes cases,count
-count A- cases,count
-show patients with Insulin,filter
-list AB- cases,filter
-list routine cases,filter
-patients diagnosed with A-,filter
-billing trend for Blue Cross,trend
-compare patients with O+ based on admission type,compare
-average age grouped by insurance provider,aggregate
-compare patients with flu based on medical condition,compare
-trend of patient admissions,trend
-trend of patient admissions,trend
-trend of patient admissions,trend
-number of negative patients,count
-number of A+ patients,count
-compare diabetes patients based on their hospital,compare
-number of asthma patients,count
-show trend of routine cases,trend
-show patients with B-,filter
-number of AB- patients,count
-count positive cases,count
-compare B- patients based on their medication,compare
-trend of patient admissions,trend
-compare patients with A+ based on hospital,compare
-find all B- patients,filter
-average billing amount by test result,aggregate
-average age grouped by medication,aggregate
-compare asthma patients based on medication,compare
-show trend of AB- cases,trend
-billing trend for referral,trend
-find all referral patients,filter
-billing trend for AB+,trend
-billing trend for A-,trend
-list Cigna cases,filter
-number of AB+ patients,count
-count negative cases,count
-compare O- patients grouped by medical condition,compare
-average age grouped by admission type,aggregate
-list A- cases,filter
-show trend of referral cases,trend
-count male cases,count
-how many diabetes patients,count
-list O+ cases,filter
-list Insulin cases,filter
-how many emergency patients,count
-compare emergency patients grouped by medication,compare
-how many Aetna patients,count
-average age grouped by insurance provider,aggregate
-show average billing for hospital patients,aggregate
-compare covid patients based on medical condition,compare
-compare negative patients grouped by hospital,compare
-number of A- patients,count
-show patients with Cigna,filter
-patients diagnosed with diabetes,filter
-find all positive patients,filter
-trend of patient admissions,trend
-trend of patient admissions,trend
-average age grouped by medication,aggregate
-show O+ patients,filter
-show trend of AB- cases,trend
-how many positive patients,count
-show patients with male,filter
-compare male cases by hospital,compare
-show trend of emergency cases,trend
-number of positive patients,count
-trend of patient admissions,trend
-average billing amount by medication,aggregate
-average billing amount by admission type,aggregate
-show AB- patients,filter
-show patients with Aspirin,filter
-patients diagnosed with referral,filter
-show trend of negative cases,trend
-show trend of hypertension cases,trend
-how many diabetes patients,count
-billing trend for A+,trend
-find all Metformin patients,filter
-list arthritis cases,filter
-compare Ibuprofen patients grouped by medical condition,compare
-find all Aspirin patients,filter
-show patients with diabetes,filter
-compare hypertension patients based on their medical condition,compare
-billing trend for arthritis,trend
-compare patients with negative based on test result,compare
-trend of patient admissions,trend
-show average billing for test result patients,aggregate
-compare Aspirin patients based on insurance provider,compare
-count B- cases,count
-how many Aspirin patients,count
-compare routine cases by gender,compare
-show average billing for test result patients,aggregate
-show trend of Cigna cases,trend
-average age grouped by gender,aggregate
-compare patients with Insulin based on medical condition,compare
-average age grouped by medication,aggregate
-number of referral patients,count
-average age grouped by gender,aggregate
-list Aspirin cases,filter
-how many Ibuprofen patients,count
-average age grouped by blood type,aggregate
-compare patients with emergency based on gender,compare
-average billing amount by insurance provider,aggregate
-average billing amount by blood type,aggregate
-find all positive patients,filter
-show trend of O- cases,trend
-how many Blue Cross patients,count
-billing trend for Ibuprofen,trend
-average billing amount by insurance provider,aggregate
-show trend of B- cases,trend
-show trend of Aspirin cases,trend
-number of diabetes patients,count
-show average billing for medication patients,aggregate
-show referral patients,filter
-compare patients with emergency based on test result,compare
-billing trend for diabetes,trend
-compare A+ patients grouped by blood type,compare
-billing trend for B-,trend
-find all diabetes patients,filter
-billing trend for B-,trend
-average age grouped by medication,aggregate
-compare AB- patients based on medical condition,compare
-average age grouped by test result,aggregate
-show average billing for insurance provider patients,aggregate
-how many Metformin patients,count
-list arthritis cases,filter
-how many O- patients,count
-compare A+ patients grouped by gender,compare
-patients diagnosed with hypertension,filter
-average billing amount by admission type,aggregate
-billing trend for female,trend
-number of hypertension patients,count
-list B- cases,filter
-list arthritis cases,filter
-average billing amount by medical condition,aggregate
-list AB+ cases,filter
-billing trend for diabetes,trend
-compare patients with Cigna based on hospital,compare
-show average billing for hospital patients,aggregate
-count O+ cases,count
-patients diagnosed with male,filter
-show average billing for gender patients,aggregate
-find all A+ patients,filter
-count diabetes cases,count
-show trend of negative cases,trend
-trend of patient admissions,trend
-average age grouped by test result,aggregate
-compare AB- patients based on gender,compare
-number of routine patients,count
-count B- cases,count
-show trend of Insulin cases,trend
-show trend of asthma cases,trend
-compare patients with Ibuprofen based on blood type,compare
-billing trend for asthma,trend
-find all Metformin patients,filter
-compare Aspirin cases by medication,compare
-list Ibuprofen cases,filter
-billing trend for B-,trend
-billing trend for Aetna,trend
-billing trend for diabetes,trend
-average billing amount by admission type,aggregate
-count B- cases,count
-how many diabetes patients,count
-count A- cases,count
-average billing amount by gender,aggregate
-average billing amount by blood type,aggregate
-average age grouped by test result,aggregate
-show average billing for medication patients,aggregate
-how many AB- patients,count
-compare Metformin patients based on blood type,compare
-show patients with female,filter
-patients diagnosed with Ibuprofen,filter
-average age grouped by medical condition,aggregate
-how many Cigna patients,count
-average billing amount by insurance provider,aggregate
-show trend of female cases,trend
-find all UnitedHealth patients,filter
-billing trend for O-,trend
-compare A- cases by hospital,compare
-show average billing for insurance provider patients,aggregate
-compare AB- patients based on insurance provider,compare
-show patients with male,filter
-show trend of asthma cases,trend
-average age grouped by blood type,aggregate
-compare B- patients based on their admission type,compare
-show trend of Insulin cases,trend
-count referral cases,count
-how many arthritis patients,count
-compare A+ patients based on their blood type,compare
-show male patients,filter
-billing trend for Aspirin,trend
-billing trend for arthritis,trend
-show patients with Metformin,filter
-compare hypertension cases by medication,compare
-trend of patient admissions,trend
-show B- patients,filter
-show average billing for admission type patients,aggregate
-average age grouped by medical condition,aggregate
-compare arthritis patients based on gender,compare
-show trend of Aetna cases,trend
-compare AB- patients based on medical condition,compare
-number of arthritis patients,count
-number of O- patients,count
-how many Blue Cross patients,count
-how many Insulin patients,count
-compare referral cases by blood type,compare
-number of A- patients,count
-trend of patient admissions,trend
-average billing amount by test result,aggregate
-number of Blue Cross patients,count
-show average billing for blood type patients,aggregate
-billing trend for asthma,trend
-trend of patient admissions,trend
-trend of patient admissions,trend
-compare B+ cases by medical condition,compare
-show Ibuprofen patients,filter
-number of female patients,count
-show trend of emergency cases,trend
-how many arthritis patients,count
-how many O- patients,count
-number of female patients,count
-average age grouped by test result,aggregate
-number of positive patients,count
-compare Cigna patients grouped by blood type,compare
-show average billing for blood type patients,aggregate
-find all covid patients,filter
-average billing amount by hospital,aggregate
-compare O+ patients based on their gender,compare
-show trend of Insulin cases,trend
-show hypertension patients,filter
-show covid patients,filter
-trend of patient admissions,trend
-how many arthritis patients,count
-trend of patient admissions,trend
-show average billing for insurance provider patients,aggregate
-compare patients with referral based on insurance provider,compare
-compare AB- patients based on insurance provider,compare
-compare AB- cases by medication,compare
-count male cases,count
-show O+ patients,filter
-compare Metformin patients grouped by insurance provider,compare
-show trend of Aspirin cases,trend
-compare hypertension patients based on their blood type,compare
-average billing amount by admission type,aggregate
-billing trend for asthma,trend
-show trend of B- cases,trend
-how many diabetes patients,count
-average age grouped by insurance provider,aggregate
-billing trend for Blue Cross,trend
-show trend of female cases,trend
-show average billing for medication patients,aggregate
-how many Blue Cross patients,count
-trend of patient admissions,trend
-show patients with A-,filter
-show average billing for admission type patients,aggregate
-how many positive patients,count
-number of Metformin patients,count
-show average billing for test result patients,aggregate
-patients diagnosed with covid,filter
-how many referral patients,count
-compare patients with covid based on medication,compare
-trend of patient admissions,trend
-compare patients with Aetna based on gender,compare
-compare O+ patients grouped by test result,compare
-patients diagnosed with negative,filter
-trend of patient admissions,trend
-show patients with emergency,filter
-trend of patient admissions,trend
-patients diagnosed with UnitedHealth,filter
-how many asthma patients,count
-number of emergency patients,count
-show trend of negative cases,trend
-list O+ cases,filter
-compare AB+ patients based on their medication,compare
-patients diagnosed with positive,filter
-billing trend for A+,trend
-show trend of O- cases,trend
-show trend of male cases,trend
-find all O- patients,filter
-average billing amount by admission type,aggregate
-trend of patient admissions,trend
-number of Aspirin patients,count
-billing trend for arthritis,trend
-count male cases,count
-compare Metformin cases by blood type,compare
-find all UnitedHealth patients,filter
-average age grouped by hospital,aggregate
-average age grouped by test result,aggregate
-show trend of A+ cases,trend
-average billing amount by medical condition,aggregate
-show trend of female cases,trend
-trend of patient admissions,trend
-show average billing for medical condition patients,aggregate
-average billing amount by medical condition,aggregate
-patients diagnosed with male,filter
-patients diagnosed with diabetes,filter
-how many AB- patients,count
-show patients with asthma,filter
-average age grouped by test result,aggregate
-list female cases,filter
-average billing amount by medical condition,aggregate
-show Insulin patients,filter
-compare arthritis patients based on their insurance provider,compare
-show O- patients,filter
-count Aspirin cases,count
-number of covid patients,count
-list arthritis cases,filter
-count routine cases,count
-compare patients with hypertension based on hospital,compare
-trend of patient admissions,trend
-number of Ibuprofen patients,count
-list A+ cases,filter
-show trend of negative cases,trend
-how many flu patients,count
-average age grouped by test result,aggregate
-compare Insulin patients based on blood type,compare
-find all routine patients,filter
-average billing amount by hospital,aggregate
-average billing amount by test result,aggregate
-number of O- patients,count
-compare referral patients grouped by insurance provider,compare
-how many AB- patients,count
-trend of patient admissions,trend
-compare A- patients based on their gender,compare
-find all O- patients,filter
-show average billing for medical condition patients,aggregate
-show average billing for insurance provider patients,aggregate
-trend of patient admissions,trend
-show patients with AB-,filter
-average billing amount by insurance provider,aggregate
-list Aspirin cases,filter
-patients diagnosed with negative,filter
-compare Cigna patients grouped by test result,compare
-average age grouped by test result,aggregate
-show average billing for gender patients,aggregate
-compare routine patients based on gender,compare
-billing trend for hypertension,trend
-number of AB+ patients,count
-trend of patient admissions,trend
-number of B- patients,count
-patients diagnosed with routine,filter
-list Insulin cases,filter
-show trend of B+ cases,trend
-number of routine patients,count
-billing trend for male,trend
-list female cases,filter
-compare arthritis cases by admission type,compare
-average billing amount by insurance provider,aggregate
-show patients with AB+,filter
-compare negative patients based on insurance provider,compare
-average age grouped by insurance provider,aggregate
-compare O+ patients grouped by blood type,compare
-show trend of positive cases,trend
-trend of patient admissions,trend
-patients diagnosed with hypertension,filter
-show arthritis patients,filter
-average billing amount by medication,aggregate
-billing trend for female,trend
-average age grouped by medical condition,aggregate
-show trend of positive cases,trend
-show patients with O+,filter
-number of Metformin patients,count
-find all hypertension patients,filter
-compare Cigna cases by insurance provider,compare
-count B+ cases,count
-compare A- patients grouped by admission type,compare
-compare Blue Cross cases by test result,compare
-trend of patient admissions,trend
-show average billing for insurance provider patients,aggregate
-list UnitedHealth cases,filter
-average billing amount by insurance provider,aggregate
-average age grouped by admission type,aggregate
-list flu cases,filter
-show trend of Aetna cases,trend
-billing trend for male,trend
-patients diagnosed with male,filter
-show trend of Ibuprofen cases,trend
-find all Insulin patients,filter
-average billing amount by gender,aggregate
-billing trend for diabetes,trend
-compare AB+ patients based on their medication,compare
-compare Metformin cases by test result,compare
-show emergency patients,filter
-trend of patient admissions,trend
-compare referral patients grouped by medical condition,compare
-find all flu patients,filter
-show patients with AB-,filter
-show patients with UnitedHealth,filter
-number of B+ patients,count
-number of Blue Cross patients,count
-count B+ cases,count
-trend of patient admissions,trend
-show average billing for admission type patients,aggregate
-trend of patient admissions,trend
-how many emergency patients,count
-show trend of covid cases,trend
-show patients with Metformin,filter
-average age grouped by insurance provider,aggregate
-compare patients with UnitedHealth based on test result,compare
-show trend of A+ cases,trend
-average billing amount by insurance provider,aggregate
-patients diagnosed with Blue Cross,filter
-count covid cases,count
-patients diagnosed with Insulin,filter
-compare patients with A+ based on medication,compare
-number of UnitedHealth patients,count
-trend of patient admissions,trend
-show average billing for medication patients,aggregate
-compare Cigna cases by test result,compare
-show Metformin patients,filter
-compare referral patients grouped by gender,compare
-billing trend for referral,trend
-compare B- patients grouped by test result,compare
-find all male patients,filter
-compare hypertension cases by medication,compare
-billing trend for Aspirin,trend
-list negative cases,filter
-show trend of Blue Cross cases,trend
-patients diagnosed with emergency,filter
-show Aetna patients,filter
-billing trend for Aspirin,trend
-count O- cases,count
-patients diagnosed with referral,filter
-trend of patient admissions,trend
-compare B+ patients grouped by gender,compare
-how many Metformin patients,count
-find all Insulin patients,filter
-number of Aspirin patients,count
-number of male patients,count
-compare patients with A- based on medical condition,compare
-average age grouped by medication,aggregate
-billing trend for Ibuprofen,trend
-show average billing for insurance provider patients,aggregate
-average age grouped by medication,aggregate
-number of Aspirin patients,count
-count O- cases,count
-patients diagnosed with Blue Cross,filter
-billing trend for hypertension,trend
-count positive cases,count
-billing trend for diabetes,trend
-billing trend for emergency,trend
-billing trend for Aspirin,trend
-patients diagnosed with A+,filter
-average age grouped by test result,aggregate
-trend of patient admissions,trend
-average billing amount by insurance provider,aggregate
-show male patients,filter
-average age grouped by hospital,aggregate
-number of positive patients,count
-billing trend for Insulin,trend
-how many arthritis patients,count
-billing trend for O+,trend
-show patients with Metformin,filter
-average age grouped by blood type,aggregate
-show patients with Blue Cross,filter
-average billing amount by medical condition,aggregate
-compare UnitedHealth patients based on their admission type,compare
-compare O+ patients based on medical condition,compare
-compare diabetes patients based on their medication,compare
-show average billing for gender patients,aggregate
-compare Aetna cases by insurance provider,compare
-compare O- patients based on their test result,compare
-show trend of asthma cases,trend
-average age grouped by gender,aggregate
-list asthma cases,filter
-trend of patient admissions,trend
-how many B- patients,count
-find all O- patients,filter
-average billing amount by blood type,aggregate
-number of B+ patients,count
-how many hypertension patients,count
-compare patients with referral based on blood type,compare
-count Cigna cases,count
-show average billing for hospital patients,aggregate
-compare patients with negative based on insurance provider,compare
-show female patients,filter
-billing trend for flu,trend
-compare B- patients based on their gender,compare
-compare flu cases by gender,compare
-show trend of asthma cases,trend
-compare AB+ cases by admission type,compare
-show hypertension patients,filter
-show patients with arthritis,filter
-how many negative patients,count
-number of O+ patients,count
-find all referral patients,filter
-number of Cigna patients,count
-show average billing for test result patients,aggregate
-how many male patients,count
-how many Aspirin patients,count
-count asthma cases,count
-count O- cases,count
-show average billing for hospital patients,aggregate
-trend of patient admissions,trend
-show trend of Blue Cross cases,trend
-"Retrieve all patient entries that match heart failure, apply outlier detection, and format the response for downstream analytics.",trend
-"From the EMR data, identify correlations between heart rate, oxygen saturation, and Type 2 diabetes, then output insights with predicted risks.",compare
-"Given patient records with creatinine and oxygen saturation, generate a summary of trend analysis over the last 30 days and detect anomalies related to hypertension.",aggregate
-"From the EMR data, identify correlations between cholesterol, A1C levels, and acute renal failure, then output insights with predicted risks.",compare
-"Retrieve all patient entries that match COPD, apply risk scoring, and format the response for downstream analytics.",compare
-"Using aggregated hospital datasets, compute statistical aggregation for patients with acute renal failure and compare trends between 1 year and 6 months.",count
-"Given patient records with A1C levels and A1C levels, generate a summary of multi‑variable comparison over the last 90 days and detect anomalies related to post‑operative infection.",count
-"Given patient records with blood pressure and creatinine, generate a summary of statistical aggregation over the last 1 year and detect anomalies related to hypertension.",count
-"Using aggregated hospital datasets, compute multi‑variable comparison for patients with heart failure and compare trends between 14 days and 6 months.",compare
-"Using aggregated hospital datasets, compute outlier detection for patients with Type 2 diabetes and compare trends between 7 days and 90 days.",count
-"Retrieve all patient entries that match post‑operative infection, apply outlier detection, and format the response for downstream analytics.",filter
-Analyze time‑series data for acute renal failure patients by applying risk scoring and return structured results.,trend
-"Retrieve all patient entries that match Type 2 diabetes, apply outlier detection, and format the response for downstream analytics.",filter
-"Retrieve all patient entries that match heart failure, apply statistical aggregation, and format the response for downstream analytics.",count
-"Given patient records with heart rate and blood pressure, generate a summary of outlier detection over the last 90 days and detect anomalies related to Type 2 diabetes.",filter
-"From the EMR data, identify correlations between blood pressure, creatinine, and post‑operative infection, then output insights with predicted risks.",trend
-"From the EMR data, identify correlations between cholesterol, blood glucose, and hypertension, then output insights with predicted risks.",count
-"Using aggregated hospital datasets, compute trend analysis for patients with COPD and compare trends between 7 days and 7 days.",filter
-Analyze time‑series data for Type 2 diabetes patients by applying outlier detection and return structured results.,filter
-"Retrieve all patient entries that match Type 2 diabetes, apply statistical aggregation, and format the response for downstream analytics.",compare
-Analyze time‑series data for acute renal failure patients by applying statistical aggregation and return structured results.,compare
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",aggregate
-"Retrieve all patient entries that match heart failure, apply trend analysis, and format the response for downstream analytics.",filter
-Analyze time‑series data for Type 2 diabetes patients by applying multi‑variable comparison and return structured results.,compare
-Analyze time‑series data for Type 2 diabetes patients by applying statistical aggregation and return structured results.,count
-"Using aggregated hospital datasets, compute risk scoring for patients with Type 2 diabetes and compare trends between 7 days and 14 days.",aggregate
-"Given patient records with blood glucose and blood glucose, generate a summary of statistical aggregation over the last 1 year and detect anomalies related to heart failure.",trend
-Analyze time‑series data for post‑operative infection patients by applying statistical aggregation and return structured results.,trend
-"From the EMR data, identify correlations between heart rate, heart rate, and heart failure, then output insights with predicted risks.",compare
-"Given patient records with oxygen saturation and creatinine, generate a summary of outlier detection over the last 30 days and detect anomalies related to Type 2 diabetes.",filter
-"From the EMR data, identify correlations between creatinine, blood pressure, and Type 2 diabetes, then output insights with predicted risks.",count
-"From the EMR data, identify correlations between creatinine, heart rate, and COPD, then output insights with predicted risks.",aggregate
-"Given patient records with A1C levels and heart rate, generate a summary of trend analysis over the last 1 year and detect anomalies related to Type 2 diabetes.",count
-Analyze time‑series data for COPD patients by applying risk scoring and return structured results.,count
-Analyze time‑series data for acute renal failure patients by applying risk scoring and return structured results.,compare
-"Retrieve all patient entries that match heart failure, apply multi‑variable comparison, and format the response for downstream analytics.",compare
-Analyze time‑series data for heart failure patients by applying outlier detection and return structured results.,count
-"Using aggregated hospital datasets, compute statistical aggregation for patients with acute renal failure and compare trends between 14 days and 1 year.",aggregate
-Analyze time‑series data for heart failure patients by applying outlier detection and return structured results.,count
-"From the EMR data, identify correlations between oxygen saturation, blood pressure, and Type 2 diabetes, then output insights with predicted risks.",filter
-"Retrieve all patient entries that match Type 2 diabetes, apply multi‑variable comparison, and format the response for downstream analytics.",compare
-Analyze time‑series data for post‑operative infection patients by applying trend analysis and return structured results.,compare
-Analyze time‑series data for hypertension patients by applying trend analysis and return structured results.,filter
-"Given patient records with A1C levels and creatinine, generate a summary of multi‑variable comparison over the last 7 days and detect anomalies related to hypertension.",aggregate
-"From the EMR data, identify correlations between heart rate, blood glucose, and heart failure, then output insights with predicted risks.",filter
-"Given patient records with oxygen saturation and heart rate, generate a summary of multi‑variable comparison over the last 7 days and detect anomalies related to hypertension.",trend
-"Using aggregated hospital datasets, compute multi‑variable comparison for patients with hypertension and compare trends between 30 days and 14 days.",filter
-Analyze time‑series data for heart failure patients by applying statistical aggregation and return structured results.,filter
-"From the EMR data, identify correlations between A1C levels, oxygen saturation, and hypertension, then output insights with predicted risks.",compare
-"Retrieve all patient entries that match hypertension, apply outlier detection, and format the response for downstream analytics.",compare
-"From the EMR data, identify correlations between oxygen saturation, blood glucose, and heart failure, then output insights with predicted risks.",filter
-"Retrieve all patient entries that match acute renal failure, apply trend analysis, and format the response for downstream analytics.",aggregate
-"Retrieve all patient entries that match post‑operative infection, apply risk scoring, and format the response for downstream analytics.",aggregate
-"Retrieve all patient entries that match heart failure, apply risk scoring, and format the response for downstream analytics.",filter
-Analyze time‑series data for acute renal failure patients by applying risk scoring and return structured results.,trend
-Analyze time‑series data for post‑operative infection patients by applying multi‑variable comparison and return structured results.,trend
-"From the EMR data, identify correlations between oxygen saturation, cholesterol, and COPD, then output insights with predicted risks.",count
-"Using aggregated hospital datasets, compute risk scoring for patients with acute renal failure and compare trends between 30 days and 90 days.",aggregate
-"Retrieve all patient entries that match COPD, apply risk scoring, and format the response for downstream analytics.",aggregate
-Analyze time‑series data for COPD patients by applying trend analysis and return structured results.,filter
-"Given patient records with creatinine and blood glucose, generate a summary of risk scoring over the last 6 months and detect anomalies related to Type 2 diabetes.",aggregate
-"Using aggregated hospital datasets, compute trend analysis for patients with acute renal failure and compare trends between 1 year and 14 days.",compare
-"Given patient records with heart rate and cholesterol, generate a summary of risk scoring over the last 90 days and detect anomalies related to heart failure.",trend
-Analyze time‑series data for COPD patients by applying outlier detection and return structured results.,aggregate
-"Retrieve all patient entries that match hypertension, apply trend analysis, and format the response for downstream analytics.",aggregate
-"From the EMR data, identify correlations between blood glucose, A1C levels, and acute renal failure, then output insights with predicted risks.",compare
-"From the EMR data, identify correlations between cholesterol, blood pressure, and heart failure, then output insights with predicted risks.",compare
-Analyze time‑series data for heart failure patients by applying multi‑variable comparison and return structured results.,trend
-Analyze time‑series data for acute renal failure patients by applying trend analysis and return structured results.,trend
-"Given patient records with heart rate and heart rate, generate a summary of risk scoring over the last 1 year and detect anomalies related to acute renal failure.",compare
-Analyze time‑series data for hypertension patients by applying trend analysis and return structured results.,count
-Analyze time‑series data for Type 2 diabetes patients by applying risk scoring and return structured results.,compare
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",aggregate
-Analyze time‑series data for COPD patients by applying outlier detection and return structured results.,trend
-"From the EMR data, identify correlations between oxygen saturation, cholesterol, and post‑operative infection, then output insights with predicted risks.",trend
-"Given patient records with creatinine and blood glucose, generate a summary of risk scoring over the last 1 year and detect anomalies related to post‑operative infection.",compare
-"Using aggregated hospital datasets, compute risk scoring for patients with Type 2 diabetes and compare trends between 7 days and 6 months.",trend
-"From the EMR data, identify correlations between heart rate, creatinine, and hypertension, then output insights with predicted risks.",trend
-"Using aggregated hospital datasets, compute statistical aggregation for patients with COPD and compare trends between 90 days and 14 days.",filter
-"Given patient records with A1C levels and A1C levels, generate a summary of multi‑variable comparison over the last 1 year and detect anomalies related to COPD.",trend
-"Retrieve all patient entries that match COPD, apply outlier detection, and format the response for downstream analytics.",aggregate
-"From the EMR data, identify correlations between creatinine, creatinine, and COPD, then output insights with predicted risks.",aggregate
-"Given patient records with heart rate and cholesterol, generate a summary of statistical aggregation over the last 6 months and detect anomalies related to Type 2 diabetes.",filter
-Analyze time‑series data for Type 2 diabetes patients by applying statistical aggregation and return structured results.,compare
-"From the EMR data, identify correlations between blood glucose, blood glucose, and post‑operative infection, then output insights with predicted risks.",filter
-"Given patient records with blood glucose and cholesterol, generate a summary of outlier detection over the last 1 year and detect anomalies related to acute renal failure.",filter
-"Given patient records with blood glucose and cholesterol, generate a summary of risk scoring over the last 14 days and detect anomalies related to hypertension.",aggregate
-"Retrieve all patient entries that match post‑operative infection, apply trend analysis, and format the response for downstream analytics.",trend
-Analyze time‑series data for Type 2 diabetes patients by applying trend analysis and return structured results.,filter
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",count
-Analyze time‑series data for COPD patients by applying multi‑variable comparison and return structured results.,count
-"From the EMR data, identify correlations between blood pressure, blood pressure, and Type 2 diabetes, then output insights with predicted risks.",trend
-"Retrieve all patient entries that match heart failure, apply multi‑variable comparison, and format the response for downstream analytics.",compare
-"Retrieve all patient entries that match heart failure, apply risk scoring, and format the response for downstream analytics.",trend
-"Given patient records with oxygen saturation and heart rate, generate a summary of trend analysis over the last 90 days and detect anomalies related to heart failure.",filter
-"Using aggregated hospital datasets, compute trend analysis for patients with acute renal failure and compare trends between 90 days and 1 year.",aggregate
-Analyze time‑series data for hypertension patients by applying trend analysis and return structured results.,aggregate
-"From the EMR data, identify correlations between creatinine, blood glucose, and COPD, then output insights with predicted risks.",count
-"Using aggregated hospital datasets, compute multi‑variable comparison for patients with hypertension and compare trends between 7 days and 7 days.",filter
-"From the EMR data, identify correlations between heart rate, blood pressure, and post‑operative infection, then output insights with predicted risks.",trend
-"From the EMR data, identify correlations between blood pressure, creatinine, and Type 2 diabetes, then output insights with predicted risks.",trend
-"From the EMR data, identify correlations between A1C levels, heart rate, and Type 2 diabetes, then output insights with predicted risks.",compare
-"Using aggregated hospital datasets, compute outlier detection for patients with acute renal failure and compare trends between 30 days and 14 days.",filter
-"Using aggregated hospital datasets, compute trend analysis for patients with COPD and compare trends between 90 days and 7 days.",filter
-Analyze time‑series data for acute renal failure patients by applying multi‑variable comparison and return structured results.,trend
-Analyze time‑series data for Type 2 diabetes patients by applying multi‑variable comparison and return structured results.,trend
-"Retrieve all patient entries that match acute renal failure, apply risk scoring, and format the response for downstream analytics.",trend
-"Retrieve all patient entries that match Type 2 diabetes, apply multi‑variable comparison, and format the response for downstream analytics.",count
-"From the EMR data, identify correlations between heart rate, oxygen saturation, and Type 2 diabetes, then output insights with predicted risks.",count
-Analyze time‑series data for post‑operative infection patients by applying trend analysis and return structured results.,compare
-Analyze time‑series data for acute renal failure patients by applying trend analysis and return structured results.,filter
-Analyze time‑series data for heart failure patients by applying outlier detection and return structured results.,count
-"Retrieve all patient entries that match COPD, apply multi‑variable comparison, and format the response for downstream analytics.",aggregate
-"Given patient records with blood pressure and heart rate, generate a summary of multi‑variable comparison over the last 6 months and detect anomalies related to hypertension.",filter
-"From the EMR data, identify correlations between cholesterol, oxygen saturation, and COPD, then output insights with predicted risks.",filter
-Analyze time‑series data for COPD patients by applying statistical aggregation and return structured results.,filter
-Analyze time‑series data for COPD patients by applying multi‑variable comparison and return structured results.,aggregate
-Analyze time‑series data for heart failure patients by applying statistical aggregation and return structured results.,filter
-"Using aggregated hospital datasets, compute risk scoring for patients with Type 2 diabetes and compare trends between 30 days and 1 year.",aggregate
-"Given patient records with A1C levels and cholesterol, generate a summary of outlier detection over the last 14 days and detect anomalies related to post‑operative infection.",aggregate
-Analyze time‑series data for acute renal failure patients by applying multi‑variable comparison and return structured results.,count
-"Given patient records with heart rate and A1C levels, generate a summary of multi‑variable comparison over the last 1 year and detect anomalies related to acute renal failure.",count
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",filter
-"Using aggregated hospital datasets, compute risk scoring for patients with acute renal failure and compare trends between 1 year and 90 days.",filter
-"From the EMR data, identify correlations between creatinine, A1C levels, and acute renal failure, then output insights with predicted risks.",aggregate
-"From the EMR data, identify correlations between oxygen saturation, oxygen saturation, and heart failure, then output insights with predicted risks.",count
-"Retrieve all patient entries that match acute renal failure, apply outlier detection, and format the response for downstream analytics.",aggregate
-"Using aggregated hospital datasets, compute trend analysis for patients with COPD and compare trends between 6 months and 14 days.",aggregate
-"From the EMR data, identify correlations between blood glucose, blood pressure, and COPD, then output insights with predicted risks.",count
-Analyze time‑series data for hypertension patients by applying trend analysis and return structured results.,count
-"From the EMR data, identify correlations between oxygen saturation, oxygen saturation, and hypertension, then output insights with predicted risks.",aggregate
-"Retrieve all patient entries that match hypertension, apply statistical aggregation, and format the response for downstream analytics.",compare
-Analyze time‑series data for post‑operative infection patients by applying statistical aggregation and return structured results.,count
-"Retrieve all patient entries that match COPD, apply trend analysis, and format the response for downstream analytics.",aggregate
-"Using aggregated hospital datasets, compute trend analysis for patients with acute renal failure and compare trends between 6 months and 30 days.",aggregate
-"Using aggregated hospital datasets, compute statistical aggregation for patients with COPD and compare trends between 30 days and 6 months.",trend
-Analyze time‑series data for acute renal failure patients by applying risk scoring and return structured results.,trend
-"Given patient records with blood glucose and blood glucose, generate a summary of trend analysis over the last 1 year and detect anomalies related to COPD.",aggregate
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",trend
-"From the EMR data, identify correlations between blood pressure, blood pressure, and COPD, then output insights with predicted risks.",aggregate
-"Given patient records with cholesterol and creatinine, generate a summary of risk scoring over the last 7 days and detect anomalies related to hypertension.",trend
-"From the EMR data, identify correlations between oxygen saturation, A1C levels, and post‑operative infection, then output insights with predicted risks.",count
-Analyze time‑series data for post‑operative infection patients by applying outlier detection and return structured results.,compare
-"Retrieve all patient entries that match heart failure, apply risk scoring, and format the response for downstream analytics.",aggregate
-Analyze time‑series data for acute renal failure patients by applying trend analysis and return structured results.,count
-"Given patient records with A1C levels and A1C levels, generate a summary of multi‑variable comparison over the last 6 months and detect anomalies related to hypertension.",count
-Analyze time‑series data for post‑operative infection patients by applying statistical aggregation and return structured results.,aggregate
-"Retrieve all patient entries that match acute renal failure, apply multi‑variable comparison, and format the response for downstream analytics.",aggregate
-"Given patient records with cholesterol and A1C levels, generate a summary of trend analysis over the last 14 days and detect anomalies related to hypertension.",count
-Analyze time‑series data for acute renal failure patients by applying outlier detection and return structured results.,trend
-"Given patient records with creatinine and heart rate, generate a summary of risk scoring over the last 7 days and detect anomalies related to hypertension.",filter
-"Retrieve all patient entries that match post‑operative infection, apply statistical aggregation, and format the response for downstream analytics.",compare
-Analyze time‑series data for acute renal failure patients by applying multi‑variable comparison and return structured results.,count
-Analyze time‑series data for post‑operative infection patients by applying outlier detection and return structured results.,filter
-"From the EMR data, identify correlations between blood glucose, oxygen saturation, and heart failure, then output insights with predicted risks.",aggregate
-"From the EMR data, identify correlations between creatinine, A1C levels, and heart failure, then output insights with predicted risks.",compare
-"From the EMR data, identify correlations between cholesterol, oxygen saturation, and post‑operative infection, then output insights with predicted risks.",filter
-"Given patient records with cholesterol and creatinine, generate a summary of trend analysis over the last 1 year and detect anomalies related to Type 2 diabetes.",count
-"Using aggregated hospital datasets, compute outlier detection for patients with Type 2 diabetes and compare trends between 7 days and 14 days.",aggregate
-Analyze time‑series data for post‑operative infection patients by applying trend analysis and return structured results.,filter
-"From the EMR data, identify correlations between heart rate, oxygen saturation, and hypertension, then output insights with predicted risks.",aggregate
-Analyze time‑series data for acute renal failure patients by applying outlier detection and return structured results.,filter
-"Using aggregated hospital datasets, compute outlier detection for patients with hypertension and compare trends between 90 days and 6 months.",filter
-"Given patient records with creatinine and oxygen saturation, generate a summary of statistical aggregation over the last 14 days and detect anomalies related to Type 2 diabetes.",filter
-"Retrieve all patient entries that match post‑operative infection, apply multi‑variable comparison, and format the response for downstream analytics.",compare
-"From the EMR data, identify correlations between blood pressure, oxygen saturation, and COPD, then output insights with predicted risks.",filter
-"Retrieve all patient entries that match COPD, apply risk scoring, and format the response for downstream analytics.",count
-Analyze time‑series data for heart failure patients by applying trend analysis and return structured results.,compare
-"Retrieve all patient entries that match heart failure, apply multi‑variable comparison, and format the response for downstream analytics.",filter
-"Retrieve all patient entries that match heart failure, apply outlier detection, and format the response for downstream analytics.",count
-"From the EMR data, identify correlations between cholesterol, creatinine, and post‑operative infection, then output insights with predicted risks.",aggregate
-Analyze time‑series data for hypertension patients by applying statistical aggregation and return structured results.,compare
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",count
-"Retrieve all patient entries that match hypertension, apply outlier detection, and format the response for downstream analytics.",compare
-"From the EMR data, identify correlations between cholesterol, oxygen saturation, and acute renal failure, then output insights with predicted risks.",trend
-"Given patient records with cholesterol and A1C levels, generate a summary of outlier detection over the last 30 days and detect anomalies related to heart failure.",compare
-"Retrieve all patient entries that match heart failure, apply outlier detection, and format the response for downstream analytics.",aggregate
-"From the EMR data, identify correlations between heart rate, A1C levels, and Type 2 diabetes, then output insights with predicted risks.",trend
-"Given patient records with blood pressure and creatinine, generate a summary of trend analysis over the last 14 days and detect anomalies related to acute renal failure.",trend
-"Given patient records with blood pressure and oxygen saturation, generate a summary of multi‑variable comparison over the last 90 days and detect anomalies related to Type 2 diabetes.",aggregate
-Analyze time‑series data for COPD patients by applying risk scoring and return structured results.,aggregate
-Analyze time‑series data for acute renal failure patients by applying statistical aggregation and return structured results.,trend
-"Retrieve all patient entries that match hypertension, apply risk scoring, and format the response for downstream analytics.",compare
-Analyze time‑series data for COPD patients by applying trend analysis and return structured results.,count
-"From the EMR data, identify correlations between creatinine, cholesterol, and hypertension, then output insights with predicted risks.",aggregate
-"From the EMR data, identify correlations between creatinine, blood pressure, and hypertension, then output insights with predicted risks.",count
-"Retrieve all patient entries that match post‑operative infection, apply trend analysis, and format the response for downstream analytics.",aggregate
-"Given patient records with heart rate and heart rate, generate a summary of risk scoring over the last 1 year and detect anomalies related to hypertension.",aggregate
-Analyze time‑series data for hypertension patients by applying trend analysis and return structured results.,compare
-"Given patient records with cholesterol and A1C levels, generate a summary of risk scoring over the last 1 year and detect anomalies related to acute renal failure.",filter
-Analyze time‑series data for heart failure patients by applying outlier detection and return structured results.,aggregate
-Analyze time‑series data for post‑operative infection patients by applying trend analysis and return structured results.,trend
-"From the EMR data, identify correlations between A1C levels, oxygen saturation, and acute renal failure, then output insights with predicted risks.",count
-"Retrieve all patient entries that match heart failure, apply multi‑variable comparison, and format the response for downstream analytics.",count
-Analyze time‑series data for acute renal failure patients by applying multi‑variable comparison and return structured results.,aggregate
-"Given patient records with blood pressure and cholesterol, generate a summary of statistical aggregation over the last 30 days and detect anomalies related to post‑operative infection.",aggregate
-"From the EMR data, identify correlations between blood glucose, heart rate, and COPD, then output insights with predicted risks.",compare
-"Given patient records with creatinine and heart rate, generate a summary of risk scoring over the last 14 days and detect anomalies related to Type 2 diabetes.",compare
-Analyze time‑series data for hypertension patients by applying trend analysis and return structured results.,count
-"From the EMR data, identify correlations between A1C levels, heart rate, and post‑operative infection, then output insights with predicted risks.",filter
+just the video campaigns,filter
+tally the line C assembly runs,count
+what is the maximum cart size among customers,aggregate
+who are the in transit shipments,filter
+how many employees in total,count
+list all sensor readings with location equal to factory floor,filter
+total points by team,aggregate
+show production batches trend by year,trend
+which genre performs better on loan duration,compare
+what is the minimum engagement rate for campaigns,aggregate
+show carts where country is USA,filter
+which posts are from video,filter
+in transit vs delayed,compare
+account balance distribution across account type,aggregate
+membership tier-wise lifetime value numbers,aggregate
+which cuisine performs better on order total,compare
+"which is higher, order frequency for Germany or Canada",compare
+number of campaigns with platform equal to TikTok,count
+"which is higher, length of stay for O+ or A+",compare
+which gender performs better on bonus,compare
+what is the average loan duration of checkouts,aggregate
+how many listings were house last year,count
+average shipping cost grouped by carrier,aggregate
+is Plant 2 ahead of Plant 3 in downtime,compare
+which properties have property type of house,filter
+"who has more prep time, indian or italian",compare
+how much reading value on average for motion device logs,aggregate
+compare purchases across product category,compare
+who are the downtown accounts,filter
+total billing amount by admission type,aggregate
+get all production batches where downtime is greater than 500,filter
+customers count for USA,count
+show transactions trend by year,trend
+number of shipments with status equal to returned,count
+shipments located in in transit,filter
+is warehouse B ahead of factory floor in battery level,compare
+which book loans have genre of mystery,filter
+plot goals scored since january,trend
+narrow this down to non-fiction checkouts,filter
+units produced month over month,trend
+top 1000 accounts by account balance,filter
+pull up students tagged no scholarship,filter
+"who has more goals scored, midfielder or forward",compare
+how does reading value break down by sensor type,aggregate
+how much reading value on average for humidity sensor readings,aggregate
+what is the maximum days on market among properties,aggregate
+give me the numbers for shipping cost by carrier,aggregate
+how many defender games are in the system,count
+how many posts do we have,count
+number of device logs with sensor type equal to pressure,count
+"who has more discount amount, clothing or furniture",compare
+staff members count for female,count
+how has loan duration changed over the years,trend
+how does length of stay break down by blood type,aggregate
+show purchases growth over the last year,trend
+number of checkouts with genre equal to fiction,count
+find orders that are gift card,filter
+monthly trend of late fee,trend
+yearly trend of order frequency by membership tier,trend
+get all shipments where weight is greater than 25,filter
+is science ahead of mystery in loan duration,compare
+sum of minutes played for matches,aggregate
+show matches where position is midfielder,filter
+order type-wise tip amount numbers,aggregate
+does TikTok or Twitter have more campaigns,compare
+how did history students change over the year,trend
+"who has more weight, delayed or in transit",compare
+average battery level grouped by location,aggregate
+how many properties have days on market above 250,count
+what's the typical GPA for enrollments,aggregate
+how does minutes played break down by team,aggregate
+compare house and apartment listings by days on market,compare
+count how many orders are West,count
+number of deliveries with carrier equal to DHL,count
+compare B+ and A+ patients by length of stay,compare
+what's the headcount of paypal purchases,count
+yearly trend of days on market by property type,trend
+compare average battery level between warehouse A and factory floor,compare
+compare genre groups based on late fee,compare
+what's the headcount of groceries purchases,count
+prep time over time for takeout,trend
+how many production batches were line B last year,count
+the 25 highest minutes played players,filter
+compare orders across product category,compare
+which admission type performs better on length of stay,compare
+what is the total number of sales transactions,count
+which product category performs better on quantity sold,compare
+how did non-fiction book loans change over the year,trend
+what is the maximum GPA among enrollments,aggregate
+count how many staff members are engineering,count
+give me a count of transactions,count
+how many TikTok posts are in the system,count
+sum of prep time for orders,aggregate
+yearly trend of account balance by account type,trend
+how many transactions in total,count
+how does USA compare to Germany in terms of order frequency,compare
+count how many course registrations are junior,count
+how many enrollments do we have,count
+how many device logs do we have,count
+line B vs line C,compare
+transaction amount distribution across transaction type,aggregate
+compare average account balance between downtown and suburban,compare
+suburban versus downtown by interest rate,compare
+can you find games with position goalkeeper,filter
+transactions over the past 12 months,trend
+position-wise points numbers,aggregate
+what's the typical likes for campaigns,aggregate
+how did posts move each month,trend
+show enrollments with GPA under 250,filter
+how did enrollments move each month,trend
+goals scored trend by month,trend
+line A vs line C,compare
+does paypal or gift card have more purchases,compare
+show students with tuition under 100,filter
+what is the average GPA of course registrations,aggregate
+give me the split of downtime across product line,aggregate
+who are the east branch book loans,filter
+how did transactions move each month,trend
+compare average minutes played between goalkeeper and defender,compare
+is revenue increasing or decreasing,trend
+show carts where membership tier is bronze,filter
+pull up course registrations tagged scholarship,filter
+does house or apartment have more properties,compare
+line A versus line B by units produced,compare
+sales transactions count for cash,count
+how many posts were Twitter last year,count
+the 10 highest order frequency customers,filter
+how did silver carts change over the year,trend
+how did midfielder matches change over the year,trend
+did order total go up or down since last year,trend
+how much bonus on average for marketing staff members,aggregate
+does indian or italian have more reservations,compare
+monthly trend of order frequency,trend
+weight trend by month,trend
+count how many device logs are pressure,count
+how does downtime break down by factory,aggregate
+show orders with tip amount under 500,filter
+how has billing amount changed over the years,trend
+count how many shipments are DHL,count
+"who has more discount amount, furniture or groceries",compare
+likes breakdown by platform,aggregate
+average square footage for Boston properties,aggregate
+"book loans with late fee above 25, please",filter
+tally the Germany carts,count
+what's the listing price per city look like,aggregate
+give me the split of age across admission type,aggregate
+apartment vs house,compare
+tuition over time for junior,trend
+compare South and North purchases by discount amount,compare
+plot bonus since january,trend
+find deliveries that are FedEx,filter
+monthly trend of prep time,trend
+tally the savings transactions,count
+how do referral and routine stack up,compare
+yearly trend of minutes played by team,trend
+count the shipments where status is returned,count
+give me the numbers for tip amount by order type,aggregate
+monthly trend of credit hours,trend
+points breakdown by position,aggregate
+what's the headcount of delivery orders,count
+number of properties with property type equal to condo,count
+list all sales transactions with product category equal to clothing,filter
+total points by position,aggregate
+does East or Central have more sales transactions,compare
+how much account balance on average for withdrawal accounts,aggregate
+how many Plant 3 production batches are in the system,count
+shipping cost month over month,trend
+give me accounts that have account type set to checking,filter
+yearly trend of GPA by major,trend
+give me the split of tuition across scholarship status,aggregate
+how many mystery book loans are in the system,count
+what's the typical GPA for students,aggregate
+"who has more age, A+ or A-",compare
+trend of admissions over time,trend
+customers count for Canada,count
+which class year performs better on credit hours,compare
+"who has more revenue, South or North",compare
+discount amount over time for paypal,trend
+count how many customers are silver,count
+give me campaigns that have content type set to text,filter
+"customers with order frequency above 50, please",filter
+sum of quantity sold for purchases,aggregate
+what's the headcount of withdrawal transactions,count
+show course registrations growth over the last year,trend
+the 5 highest late fee checkouts,filter
+show enrollments where major is economics,filter
+top 10 transactions by account balance,filter
+which employees are from finance,filter
+how much shares on average for Facebook posts,aggregate
+prep time breakdown by cuisine,aggregate
+how many book loans were mystery last year,count
+is main branch ahead of west branch in loan duration,compare
+sum of revenue for purchases,aggregate
+does motion or humidity have more sensor readings,compare
+purchases count for gift card,count
+quantity sold breakdown by product category,aggregate
+how do Seattle and Boston stack up,compare
+how many goalkeeper matches are in the system,count
+checkouts count for main branch,count
+how much age on average for B+ admissions,aggregate
+find admissions that are referral,filter
+trend of employees over time,trend
+purchases over the past 12 months,trend
+how did checking transactions change over the year,trend
+what's the typical battery level for sensor readings,aggregate
+what is the minimum interest rate for transactions,aggregate
+how many assembly runs in total,count
+what is the average prep time of orders,aggregate
+show posts growth over the last year,trend
+pull up patients tagged O+,filter
+does computer science or history have more students,compare
+compare order type groups based on prep time,compare
+average lifetime value grouped by membership tier,aggregate
+order total over time for italian,trend
+how does goals scored break down by position,aggregate
+any course registrations that are scholarship,filter
+compare branch groups based on late fee,compare
+did loan duration go up or down since last year,trend
+team-wise goals scored numbers,aggregate
+staff members over the past 12 months,trend
+count how many listings are Denver,count
+compare referral and routine patients by billing amount,compare
+how many office sensor readings are in the system,count
+average points grouped by team,aggregate
+how does battery level break down by location,aggregate
+how many orders were takeout last year,count
+compare average loan duration between fiction and science,compare
+just the goalkeeper games,filter
+DHL deliveries with weight over 40,filter
+checking versus savings by interest rate,compare
+show checkouts where genre is non-fiction,filter
+interest rate distribution across transaction type,aggregate
+give me the split of salary across gender,aggregate
+how do Eagles and Lions stack up,compare
+show staff members growth over the last year,trend
+how does age break down by admission type,aggregate
+count the purchases where region is Central,count
+is loan duration increasing or decreasing,trend
+shipping cost trend by month,trend
+age distribution across blood type,aggregate
+salary month over month,trend
+loan duration distribution across branch,aggregate
+what's the typical quantity sold for sales transactions,aggregate
+give me the split of discount amount across payment method,aggregate
+average interest rate for withdrawal accounts,aggregate
+sum of prep time for reservations,aggregate
+does withdrawal or deposit have more transactions,compare
+matches over the past 12 months,trend
+yearly trend of transaction amount by branch,trend
+did GPA go up or down since last year,trend
+count how many listings are house,count
+"who has more late fee, east branch or main branch",compare
+get all sensor readings where reading value is greater than 5,filter
+which reservations are from italian,filter
+did quantity sold go up or down since last year,trend
+narrow this down to routine admissions,filter
+"posts with likes above 40, please",filter
+does USA or Germany have more customers,compare
+Facebook versus Twitter by shares,compare
+top 40 orders by order total,filter
+monthly trend of lifetime value,trend
+does TikTok or Instagram have more posts,compare
+what is the minimum bonus for employees,aggregate
+display admissions filtered by blood type A+,filter
+give me reservations that have order type set to takeout,filter
+count the students where class year is freshman,count
+count the posts where content type is image,count
+which patients are from O-,filter
+count how many orders are mexican,count
+find posts that are TikTok,filter
+what's the headcount of history students,count
+show average listing price per property type,aggregate
+pull up posts tagged video,filter
+average prep time grouped by cuisine,aggregate
+show deliveries trend by year,trend
+what is the average weight of deliveries,aggregate
+"accounts with interest rate above 100, please",filter
+what is the minimum years of experience for employees,aggregate
+computer science vs biology,compare
+yearly trend of reading value by location,trend
+what is the total number of staff members,count
+"which is higher, tuition for history or biology",compare
+is prep time increasing or decreasing,trend
+how does engineering compare to sales in terms of salary,compare
+how do italian and mexican stack up,compare
+transactions count for suburban,count
+count how many admissions are referral,count
+square footage breakdown by city,aggregate
+give me staff members that have department set to finance,filter
+compare blood type groups based on length of stay,compare
+what's the headcount of west branch book loans,count
+how many staff members in total,count
+device logs over the past 12 months,trend
+compare humidity and pressure device logs by battery level,compare
+how many book loans do we have,count
+what's the headcount of image campaigns,count
+give me posts that have platform set to Facebook,filter
+which listings are from apartment,filter
+is computer science ahead of history in tuition,compare
+what is the average years of experience of staff members,aggregate
+count the campaigns where content type is video,count
+number of patients with blood type equal to B+,count
+show accounts with transaction amount under 250,filter
+narrow this down to Facebook campaigns,filter
+total likes by content type,aggregate
+which production batches are from Plant 2,filter
+full-time versus part-time by bonus,compare
+compare Eagles and Tigers games by minutes played,compare
+which status performs better on shipping cost,compare
+production batches count for Plant 2,count
+what is the maximum transaction amount among accounts,aggregate
+compare townhouse and condo listings by listing price,compare
+yearly trend of order total by order type,trend
+suburban vs downtown,compare
+bonus trend by month,trend
+"sensor readings with battery level above 500, please",filter
+listing price trend by month,trend
+what is the maximum order frequency among customers,aggregate
+staff members count for finance,count
+tally the emergency patients,count
+give me the numbers for delivery time by carrier,aggregate
+give me the numbers for lifetime value by country,aggregate
+which account type performs better on transaction amount,compare
+show properties growth over the last year,trend
+what is the maximum late fee among checkouts,aggregate
+Lions vs Tigers,compare
+which campaigns have platform of TikTok,filter
+students count for computer science,count
+did cart size go up or down since last year,trend
+"who has more shipping cost, UPS or USPS",compare
+can you find shipments with carrier DHL,filter
+how has order total changed over the years,trend
+find listings that are Austin,filter
+Lions players with minutes played over 25,filter
+sum of tip amount for orders,aggregate
+yearly trend of battery level by location,trend
+listings count for Denver,count
+what is the total number of reservations,count
+how does main branch compare to west branch in terms of late fee,compare
+what is the total number of orders,count
+sum of minutes played for games,aggregate
+what is the minimum days on market for properties,aggregate
+what's the headcount of deposit transactions,count
+revenue over time for paypal,trend
+show admissions trend by year,trend
+top 40 orders by discount amount,filter
+how many Plant 1 production batches are in the system,count
+just the main branch book loans,filter
+the 250 highest minutes played players,filter
+late fee over time for fiction,trend
+pull up patients tagged A-,filter
+pull up shipments tagged UPS,filter
+how many sensor readings in total,count
+which blood type performs better on age,compare
+average tuition grouped by class year,aggregate
+pull up checkouts tagged west branch,filter
+what's the headcount of dine-in orders,count
+compare carts across membership tier,compare
+plot shares since january,trend
+average goals scored grouped by position,aggregate
+total minutes played by position,aggregate
+how does salary break down by employment type,aggregate
+tally the chinese orders,count
+find book loans that are west branch,filter
+count the accounts where branch is uptown,count
+count the accounts where transaction type is transfer,count
+the 100 highest engagement rate campaigns,filter
+who are the scholarship course registrations,filter
+what is the average engagement rate of campaigns,aggregate
+how much order total on average for gift card orders,aggregate
+how much delivery time on average for USPS shipments,aggregate
+yearly trend of square footage by property type,trend
+what is the maximum billing amount among patients,aggregate
+yearly trend of salary by department,trend
+is tip amount increasing or decreasing,trend
+the 5 highest cart size carts,filter
+how does fiction compare to mystery in terms of loan duration,compare
+how did shipments move each month,trend
+just the indian reservations,filter
+referral vs routine,compare
+order total over time for takeout,trend
+can you find orders with region East,filter
+which cuisine performs better on prep time,compare
+what is the maximum order total among reservations,aggregate
+list all checkouts with branch equal to east branch,filter
+how many purchases are there,count
+average order total grouped by product category,aggregate
+does B+ or A+ have more admissions,compare
+number of book loans with branch equal to west branch,count
+how has reading value changed over the years,trend
+give me the split of late fee across genre,aggregate
+count how many orders are italian,count
+just the Denver properties,filter
+get all reservations where prep time is greater than 10,filter
+how did female employees change over the year,trend
+average prep time grouped by order type,aggregate
+top 40 deliveries by weight,filter
+Austin versus Seattle by days on market,compare
+posts count for Twitter,count
+how did goalkeeper matches change over the year,trend
+what's the typical reading value for device logs,aggregate
+battery level over time for office,trend
+can you find properties with city Austin,filter
+total lifetime value by country,aggregate
+narrow this down to line B production batches,filter
+how many staff members are there,count
+the 100 highest engagement rate posts,filter
+transaction amount over time for downtown,trend
+sum of units produced for production batches,aggregate
+plot quantity sold since january,trend
+reservations count for indian,count
+lifetime value trend by month,trend
+average discount amount for gift card sales transactions,aggregate
+"which is higher, square footage for townhouse or house",compare
+how do video and image stack up,compare
+display patients filtered by admission type routine,filter
+give me the split of length of stay across admission type,aggregate
+compare economics and biology enrollments by tuition,compare
+number of employees with department equal to finance,count
+number of listings with city equal to Denver,count
+yearly trend of late fee by genre,trend
+is east branch ahead of west branch in loan duration,compare
+humidity vs temperature,compare
+display customers filtered by country UK,filter
+"who has more billing amount, referral or routine",compare
+display book loans filtered by genre science,filter
+"who has more age, A- or O-",compare
+count how many deliveries are FedEx,count
+show assembly runs with units produced under 1000,filter
+number of carts with country equal to Germany,count
+compare marketing and finance staff members by years of experience,compare
+how many sales transactions have order total above 5,count
+North vs East,compare
+tally the emergency admissions,count
+top 50 students by tuition,filter
+number of purchases with payment method equal to cash,count
+reading value month over month,trend
+can you find production batches with factory Plant 1,filter
+what's the days on market per city look like,aggregate
+how many shipments were UPS last year,count
+can you find customers with membership tier bronze,filter
+"who has more square footage, Boston or Austin",compare
+give me the split of credit hours across class year,aggregate
+how did delayed shipments change over the year,trend
+how did italian orders change over the year,trend
+points breakdown by team,aggregate
+monthly trend of transaction amount,trend
+can you find assembly runs with factory Plant 1,filter
+compare average listing price between apartment and condo,compare
+how did chinese orders change over the year,trend
+how many checkouts in total,count
+years of experience distribution across employment type,aggregate
+how many sales transactions were groceries last year,count
+is square footage increasing or decreasing,trend
+sum of reading value for sensor readings,aggregate
+show students trend by year,trend
+give me a count of accounts,count
+"reservations with order total above 40, please",filter
+show matches trend by year,trend
+compare shipments across status,compare
+late fee over time for west branch,trend
+tally the gold carts,count
+what is the minimum shipping cost for shipments,aggregate
+give me the numbers for salary by gender,aggregate
+what's the typical interest rate for transactions,aggregate
+which admissions are from O-,filter
+deliveries over the past 12 months,trend
+number of properties with property type equal to house,count
+how do DHL and FedEx stack up,compare
+narrow this down to emergency admissions,filter
+how did Canada carts change over the year,trend
+what's the typical billing amount for patients,aggregate
+who are the delayed shipments,filter
+how many customers have cart size above 1000,count
+show average account balance per account type,aggregate
+sum of bonus for staff members,aggregate
+show checkouts growth over the last year,trend
+what is the minimum minutes played for players,aggregate
+list all assembly runs with factory equal to Plant 2,filter
+how has discount amount changed over the years,trend
+monthly trend of listing price,trend
+does full-time or part-time have more employees,compare
+how do economics and biology stack up,compare
+show transactions with interest rate under 50,filter
+count the orders where cuisine is italian,count
+"which is higher, bonus for female or male",compare
+number of assembly runs with factory equal to Plant 2,count
+sales transactions over the past 12 months,trend
+average revenue grouped by region,aggregate
+compare transaction type groups based on transaction amount,compare
+what's the headcount of O+ admissions,count
+what is the average goals scored of matches,aggregate
+minutes played distribution across team,aggregate
+battery level over time for factory floor,trend
+just the factory floor device logs,filter
+how does O- compare to O+ in terms of length of stay,compare
+trend of students over time,trend
+give me a count of deliveries,count
+average reading value grouped by sensor type,aggregate
+monthly trend of units produced,trend
+plot days on market since january,trend
+what is the total number of students,count
+how many goalkeeper games are in the system,count
+get all course registrations where GPA is greater than 100,filter
+list all purchases with region equal to North,filter
+which country performs better on order frequency,compare
+which deliveries have carrier of UPS,filter
+show listings where city is Seattle,filter
+total loan duration by genre,aggregate
+monthly trend of delivery time,trend
+what is the maximum square footage among listings,aggregate
+how does weight break down by carrier,aggregate
+interest rate distribution across account type,aggregate
+give me the numbers for weight by status,aggregate
+battery level trend by month,trend
+how many assembly runs are there,count
+device logs count for warehouse B,count
+give me a count of device logs,count
+what is the minimum tuition for enrollments,aggregate
+office vs factory floor,compare
+what's the headcount of DHL deliveries,count
+what is the average order total of reservations,aggregate
+tally the senior course registrations,count
+give me a count of customers,count
+full-time vs contractor,compare
+what is the average shares of campaigns,aggregate
+average engagement rate grouped by platform,aggregate
+lifetime value over time for gold,trend
+count how many accounts are credit,count
+goals scored distribution across team,aggregate
+any matches that are goalkeeper,filter
+trend of sensor readings over time,trend
+indian reservations with tip amount over 1000,filter
+what is the total number of enrollments,count
+is shipping cost increasing or decreasing,trend
+what's the headcount of temperature sensor readings,count
+show campaigns growth over the last year,trend
+which players are from goalkeeper,filter
+location-wise battery level numbers,aggregate
+how did device logs move each month,trend
+yearly trend of order total by payment method,trend
+give me shipments that have status set to delayed,filter
+shares distribution across platform,aggregate
+show average cart size per country,aggregate
+how many checkouts have late fee above 50,count
+what is the minimum delivery time for shipments,aggregate
+did battery level go up or down since last year,trend
+average square footage grouped by city,aggregate
+trend of book loans over time,trend
+how many device logs are there,count
+how do computer science and biology stack up,compare
+order frequency trend by month,trend
+compare scholarship status groups based on tuition,compare
+give me a count of students,count
+does line C or line B have more assembly runs,compare
+tuition distribution across major,aggregate
+any employees that are finance,filter
+how do electronics and groceries stack up,compare
+top 10 listings by square footage,filter
+trend of staff members over time,trend
+show assembly runs trend by year,trend
+top 250 course registrations by GPA,filter
+engagement rate over time for Facebook,trend
+can you find shipments with status delivered,filter
+give me checkouts that have branch set to east branch,filter
+what's the credit hours per class year look like,aggregate
+sum of order frequency for carts,aggregate
+which reservations have order type of takeout,filter
+staff members count for male,count
+how did history enrollments change over the year,trend
+is listing price increasing or decreasing,trend
+which employees have gender of male,filter
+how do Instagram and TikTok stack up,compare
+what is the minimum lifetime value for carts,aggregate
+count how many production batches are line B,count
+how does furniture compare to electronics in terms of quantity sold,compare
+properties located in apartment,filter
+"who has more billing amount, O- or O+",compare
+what is the average days on market of listings,aggregate
+GPA distribution across major,aggregate
+show book loans where branch is main branch,filter
+how many orders are there,count
+how many accounts are there,count
+show average delivery time per carrier,aggregate
+players over the past 12 months,trend
+sum of tip amount for reservations,aggregate
+employees over the past 12 months,trend
+trend of device logs over time,trend
+narrow this down to UPS shipments,filter
+which shipments are from UPS,filter
+how has downtime changed over the years,trend
+yearly trend of minutes played by position,trend
+how many orders have discount amount above 250,count
+what's the typical billing amount for admissions,aggregate
+"who has more goals scored, defender or forward",compare
+patients over the past 12 months,trend
+show admissions growth over the last year,trend
+how do savings and credit stack up,compare
+how many employees do we have,count
+monthly trend of tuition,trend
+how does midfielder compare to forward in terms of minutes played,compare
+how do Plant 2 and Plant 1 stack up,compare
+get all orders where tip amount is greater than 25,filter
+did reading value go up or down since last year,trend
+show average salary per employment type,aggregate
+who are the in transit deliveries,filter
+how many east branch checkouts are in the system,count
+how many Lions games are in the system,count
+how do contractor and part-time stack up,compare
+tally the clothing purchases,count
+how do Seattle and Denver stack up,compare
+compare admission type groups based on billing amount,compare
+how do video and text stack up,compare
+how do dine-in and takeout stack up,compare
+games over the past 12 months,trend
+GPA month over month,trend
+account balance trend by month,trend
+show assembly runs where factory is Plant 1,filter
+display admissions filtered by admission type referral,filter
+narrow this down to A+ admissions,filter
+give me the numbers for battery level by location,aggregate
+top 25 deliveries by shipping cost,filter
+show employees growth over the last year,trend
+give me staff members that have employment type set to contractor,filter
+"which is higher, interest rate for credit or savings",compare
+yearly trend of shipping cost by carrier,trend
+sum of late fee for checkouts,aggregate
+top 250 listings by square footage,filter
+average account balance grouped by branch,aggregate
+sum of days on market for properties,aggregate
+downtime over time for Plant 3,trend
+how does GPA break down by major,aggregate
+what's the reading value per sensor type look like,aggregate
+how has credit hours changed over the years,trend
+how do clothing and groceries stack up,compare
+number of students with major equal to computer science,count
+how many staff members do we have,count
+pull up staff members tagged male,filter
+what is the average listing price of properties,aggregate
+how many admissions do we have,count
+compare average units produced between Plant 3 and Plant 1,compare
+total order total by payment method,aggregate
+what's the headcount of image posts,count
+average interest rate grouped by transaction type,aggregate
+which employment type performs better on bonus,compare
+how did campaigns move each month,trend
+"which is higher, GPA for history or computer science",compare
+any posts that are text,filter
+can you find carts with membership tier bronze,filter
+orders count for italian,count
+show players where position is forward,filter
+days on market over time for house,trend
+which blood type performs better on length of stay,compare
+listing price month over month,trend
+compare average units produced between line B and line C,compare
+how did USA carts change over the year,trend
+east branch vs west branch,compare
+what is the minimum units produced for assembly runs,aggregate
+display orders filtered by order type delivery,filter
+is routine ahead of referral in length of stay,compare
+how did line B assembly runs change over the year,trend
+what is the minimum salary for employees,aggregate
+weight month over month,trend
+give me book loans that have branch set to east branch,filter
+did defect rate go up or down since last year,trend
+what's the engagement rate per content type look like,aggregate
+what is the maximum account balance among accounts,aggregate
+show accounts with interest rate under 100,filter
+"which is higher, loan duration for non-fiction or science",compare
+compare routine and referral patients by billing amount,compare
+prep time over time for dine-in,trend
+likes distribution across content type,aggregate
+tally the condo listings,count
+revenue distribution across region,aggregate
+can you find accounts with branch downtown,filter
+show average goals scored per position,aggregate
+how does female compare to male in terms of years of experience,compare
+count how many accounts are savings,count
+properties count for apartment,count
+battery level distribution across location,aggregate
+compare average prep time between takeout and dine-in,compare
+what is the minimum listing price for listings,aggregate
+any posts that are Facebook,filter
+compare delayed and in transit shipments by delivery time,compare
+compare cuisine groups based on order total,compare
+compare status groups based on weight,compare
+how do downtown and suburban stack up,compare
+find assembly runs that are line B,filter
+plot revenue since january,trend
+Lions versus Tigers by goals scored,compare
+show checkouts trend by year,trend
+is fiction ahead of non-fiction in loan duration,compare
+tally the USA carts,count
+count how many shipments are FedEx,count
+did shares go up or down since last year,trend
+how does interest rate break down by branch,aggregate
+what is the minimum reading value for device logs,aggregate
+is Facebook ahead of Instagram in shares,compare
+give me the numbers for length of stay by blood type,aggregate
+how did house properties change over the year,trend
+"who has more reading value, warehouse B or office",compare
+how did downtown accounts change over the year,trend
+enrollments located in biology,filter
+what is the total number of checkouts,count
+"who has more billing amount, emergency or referral",compare
+monthly trend of goals scored,trend
+order type-wise prep time numbers,aggregate
+narrow this down to Facebook posts,filter
+what is the total number of players,count
+how did Eagles players change over the year,trend
+compare admission type groups based on age,compare
+number of orders with product category equal to furniture,count
+tally the mystery book loans,count
+bonus over time for contractor,trend
+how has shipping cost changed over the years,trend
+motion vs humidity,compare
+give me the split of tip amount across order type,aggregate
+tally the Canada carts,count
+square footage month over month,trend
+sum of weight for shipments,aggregate
+how did book loans move each month,trend
+show listings growth over the last year,trend
+reading value trend by month,trend
+any book loans that are science,filter
+"sales transactions with order total above 40, please",filter
+is salary increasing or decreasing,trend
+how many listings have square footage above 25,count
+what's the headcount of office device logs,count
+average battery level grouped by sensor type,aggregate
+tally the withdrawal accounts,count
+show employees where employment type is contractor,filter
+give me the numbers for prep time by cuisine,aggregate
+how does years of experience break down by department,aggregate
+yearly trend of listing price by city,trend
+who are the dine-in reservations,filter
+show purchases with revenue under 1000,filter
+how did part-time employees change over the year,trend
+compare senior and sophomore course registrations by GPA,compare
+how did delivery reservations change over the year,trend
+which employees have department of finance,filter
+just the defender players,filter
+give me a count of reservations,count
+list all campaigns with content type equal to text,filter
+"course registrations with GPA above 1000, please",filter
+give me a count of carts,count
+what's the headcount of warehouse A sensor readings,count
+how does defender compare to midfielder in terms of minutes played,compare
+is weight increasing or decreasing,trend
+what is the maximum reading value among device logs,aggregate
+assembly runs count for Plant 2,count
+average units produced for Plant 3 assembly runs,aggregate
+can you find patients with blood type A-,filter
+tally the Twitter posts,count
+number of matches with team equal to Lions,count
+give me the split of order total across order type,aggregate
+how much square footage on average for Seattle properties,aggregate
+the 5 highest engagement rate posts,filter
+how many production batches were Plant 1 last year,count
+how many course registrations do we have,count
+what's the headcount of line C assembly runs,count
+count the staff members where gender is male,count
+does townhouse or condo have more listings,compare
+display admissions filtered by admission type emergency,filter
+tally the USPS shipments,count
+any employees that are female,filter
+list all admissions with admission type equal to routine,filter
+how has late fee changed over the years,trend
+compare average lifetime value between Canada and Germany,compare
+how much points on average for Lions matches,aggregate
+Boston vs Seattle,compare
+plot late fee since january,trend
+can you find properties with property type house,filter
+which listings are from condo,filter
+"which is higher, GPA for freshman or senior",compare
+count the transactions where branch is downtown,count
+does bronze or silver have more carts,compare
+how many production batches in total,count
+"staff members with salary above 1000, please",filter
+show average tuition per class year,aggregate
+give me a count of admissions,count
+how many admissions in total,count
+compare average salary between finance and HR,compare
+carts count for USA,count
+count how many deliveries are delivered,count
+who are the main branch checkouts,filter
+Boston versus Denver by square footage,compare
+emergency vs routine,compare
+tally the Austin properties,count
+clothing sales transactions with order total over 1000,filter
+is paypal ahead of cash in quantity sold,compare
+get all book loans where loan duration is greater than 40,filter
+can you find campaigns with platform TikTok,filter
+average shipping cost grouped by status,aggregate
+mystery vs fiction,compare
+which orders have product category of furniture,filter
+number of customers with country equal to Canada,count
+trend of patients over time,trend
+can you find assembly runs with product line line C,filter
+trend of production batches over time,trend
+loan duration trend by month,trend
+"who has more battery level, factory floor or office",compare
+average weight grouped by carrier,aggregate
+who are the checking transactions,filter
+how has cart size changed over the years,trend
+narrow this down to mexican orders,filter
+line A versus line B by downtime,compare
+compare city groups based on listing price,compare
+students over the past 12 months,trend
+days on market over time for Denver,trend
+"which is higher, loan duration for non-fiction or mystery",compare
+is pressure ahead of temperature in reading value,compare
+matches count for Lions,count
+the 250 highest order frequency customers,filter
+female versus male by bonus,compare
+how many purchases in total,count
+give me properties that have city set to Denver,filter
+did days on market go up or down since last year,trend
+find employees that are finance,filter
+how do east branch and main branch stack up,compare
+compare assembly runs across product line,compare
+what is the minimum order frequency for customers,aggregate
+sensor readings over the past 12 months,trend
+lifetime value month over month,trend
+tally the east branch book loans,count
+give me accounts that have transaction type set to transfer,filter
+"who has more years of experience, contractor or full-time",compare
+give me a count of book loans,count
+how do transfer and deposit stack up,compare
+"which is higher, GPA for computer science or history",compare
+show average billing amount per blood type,aggregate
+average transaction amount for checking transactions,aggregate
+how many uptown transactions are in the system,count
+just the checking accounts,filter
+plot loan duration since january,trend
+narrow this down to text campaigns,filter
+how many orders have quantity sold above 250,count
+sum of delivery time for shipments,aggregate
+compare condo and townhouse properties by days on market,compare
+how does transfer compare to deposit in terms of account balance,compare
+how did sensor readings move each month,trend
+compare average transaction amount between suburban and uptown,compare
+production batches count for Plant 1,count
+does B+ or O- have more admissions,compare
+how much quantity sold on average for clothing sales transactions,aggregate
+admissions count for A+,count
+count how many accounts are withdrawal,count
+fiction book loans with late fee over 40,filter
+how does routine compare to referral in terms of age,compare
+narrow this down to fiction checkouts,filter
+tally the referral patients,count
+who are the Lions matches,filter
+count the book loans where branch is east branch,count
+average shares grouped by platform,aggregate
+average order total grouped by cuisine,aggregate
+narrow this down to Plant 2 production batches,filter
+"who has more interest rate, suburban or uptown",compare
+compare transaction type groups based on interest rate,compare
+how does no scholarship compare to scholarship in terms of GPA,compare
+bonus over time for sales,trend
+how does line A compare to line C in terms of downtime,compare
+what is the average age of patients,aggregate
+average GPA grouped by class year,aggregate
+count the employees where department is HR,count
+number of accounts with account type equal to checking,count
+display course registrations filtered by scholarship status scholarship,filter
+does delayed or returned have more shipments,compare
+which purchases are from paypal,filter
+which product line performs better on defect rate,compare
+what's the headcount of junior enrollments,count
+show assembly runs growth over the last year,trend
+which reservations have order type of dine-in,filter
+can you find book loans with branch west branch,filter
+is defect rate increasing or decreasing,trend
+orders count for gift card,count
+the 5 highest tip amount reservations,filter
+give me a count of enrollments,count
+players count for Lions,count
+how has length of stay changed over the years,trend
+what is the minimum tuition for course registrations,aggregate
+discount amount month over month,trend
+compare sensor readings across sensor type,compare
+who are the male employees,filter
+economics course registrations with GPA over 5,filter
+how did checkouts move each month,trend
+give me production batches that have product line set to line C,filter
+compare enrollments across class year,compare
+how many production batches have defect rate above 50,count
+how much square footage on average for Denver properties,aggregate
+"who has more late fee, science or non-fiction",compare
+display checkouts filtered by genre science,filter
+count how many students are economics,count
+give me a count of patients,count
+how many listings in total,count
+late fee trend by month,trend
+is credit hours increasing or decreasing,trend
+production batches over the past 12 months,trend
+how many transactions do we have,count
+compare gender groups based on years of experience,compare
+which admissions are from A-,filter
+did lifetime value go up or down since last year,trend
+give me transactions that have account type set to checking,filter
+what is the average order total of orders,aggregate
+"which is higher, likes for video or text",compare
+compare reservations across order type,compare
+how much battery level on average for warehouse A sensor readings,aggregate
+count the sensor readings where sensor type is temperature,count
+average downtime grouped by factory,aggregate
+compare average shares between text and video,compare
+did discount amount go up or down since last year,trend
+how does prep time break down by cuisine,aggregate
+monthly trend of length of stay,trend
+which factory performs better on defect rate,compare
+how do junior and sophomore stack up,compare
+age breakdown by admission type,aggregate
+can you find assembly runs with factory Plant 2,filter
+get all listings where square footage is greater than 40,filter
+what's the order total per cuisine look like,aggregate
+tally the suburban transactions,count
+what is the total number of production batches,count
+count how many staff members are sales,count
+average transaction amount grouped by branch,aggregate
+carts located in Canada,filter
+get all assembly runs where downtime is greater than 100,filter
+how many players are there,count
+tally the suburban accounts,count
+what is the average bonus of staff members,aggregate
+who are the furniture sales transactions,filter
+total years of experience by department,aggregate
+which transactions are from downtown,filter
+number of staff members with employment type equal to part-time,count
+show average length of stay per blood type,aggregate
+number of listings with city equal to Boston,count
+what is the minimum square footage for listings,aggregate
+Twitter campaigns with engagement rate over 25,filter
+pull up production batches tagged Plant 3,filter
+who are the Sharks players,filter
+how many assembly runs were line C last year,count
+what is the total number of shipments,count
+how does shipping cost break down by carrier,aggregate
+how many carts are there,count
+top 500 sensor readings by battery level,filter
+sum of loan duration for book loans,aggregate
+how does days on market break down by city,aggregate
+how much transaction amount on average for uptown accounts,aggregate
+list all sales transactions with region equal to West,filter
+how does condo compare to townhouse in terms of square footage,compare
+"who has more goals scored, midfielder or defender",compare
+list all matches with position equal to midfielder,filter
+what is the minimum credit hours for enrollments,aggregate
+tally the line A production batches,count
+plot prep time since january,trend
+total battery level by location,aggregate
+show average account balance per branch,aggregate
+show students growth over the last year,trend
+average loan duration for east branch book loans,aggregate
+how does FedEx compare to USPS in terms of shipping cost,compare
+likes month over month,trend
+"which is higher, tip amount for indian or mexican",compare
+how did carts move each month,trend
+compare games across position,compare
+give me a count of listings,count
+narrow this down to science book loans,filter
+what's the typical order total for reservations,aggregate
+find shipments that are DHL,filter
+how do sophomore and senior stack up,compare
+what is the total number of posts,count
+what is the maximum delivery time among shipments,aggregate
+"which is higher, order frequency for USA or UK",compare
+number of device logs with location equal to warehouse A,count
+count the games where position is forward,count
+count the properties where city is Seattle,count
+give me a count of checkouts,count
+text posts with shares over 10,filter
+how many customers have cart size above 10,count
+compare finance and sales staff members by years of experience,compare
+Facebook versus TikTok by engagement rate,compare
+"who has more units produced, Plant 1 or Plant 3",compare
+which accounts have account type of credit,filter
+how does gold compare to bronze in terms of cart size,compare
+compare carrier groups based on weight,compare
+total discount amount by product category,aggregate
+any properties that are Austin,filter
+did listing price go up or down since last year,trend
+is years of experience increasing or decreasing,trend
+"which is higher, units produced for line C or line B",compare
+count the enrollments where scholarship status is scholarship,count
+"which is higher, goals scored for Eagles or Tigers",compare
+is downtown ahead of uptown in interest rate,compare
+how many B+ patients are in the system,count
+compare average square footage between townhouse and condo,compare
+how did Facebook campaigns change over the year,trend
+shipping cost breakdown by status,aggregate
+number of purchases with region equal to Central,count
+pull up orders tagged West,filter
+"which is higher, units produced for line C or line A",compare
+any customers that are USA,filter
+the 50 highest points players,filter
+billing amount month over month,trend
+"which is higher, cart size for bronze or gold",compare
+"who has more loan duration, mystery or non-fiction",compare
+give me reservations that have cuisine set to indian,filter
+how many properties are there,count
+"sensor readings with battery level above 1000, please",filter
+what's the lifetime value per membership tier look like,aggregate
+average cart size for gold carts,aggregate
+monthly trend of interest rate,trend
+downtime breakdown by product line,aggregate
+show sensor readings trend by year,trend
+how many full-time employees are in the system,count
+show average age per admission type,aggregate
+list all production batches with factory equal to Plant 3,filter
+who are the Plant 1 production batches,filter
+what's the discount amount per product category look like,aggregate
+content type-wise shares numbers,aggregate
+can you find customers with membership tier gold,filter
+what's the typical reading value for sensor readings,aggregate
+how did USPS deliveries change over the year,trend
+how does likes break down by content type,aggregate
+cash sales transactions with revenue over 250,filter
+does routine or emergency have more patients,compare
+how do gift card and paypal stack up,compare
+average delivery time grouped by carrier,aggregate
+narrow this down to chinese orders,filter
+average listing price grouped by city,aggregate
+how many delayed deliveries are in the system,count
+loan duration over time for main branch,trend
+show average years of experience per employment type,aggregate
+compare average interest rate between transfer and withdrawal,compare
+top 25 sales transactions by revenue,filter
+display shipments filtered by carrier DHL,filter
+count how many deliveries are USPS,count
+how does downtime break down by product line,aggregate
+just the townhouse listings,filter
+chinese versus mexican by tip amount,compare
+give me a count of staff members,count
+how does gift card compare to cash in terms of quantity sold,compare
+how did video posts change over the year,trend
+number of production batches with factory equal to Plant 1,count
+sum of lifetime value for carts,aggregate
+number of campaigns with platform equal to Facebook,count
+how many USPS shipments are in the system,count
+give me orders that have order type set to dine-in,filter
+count the listings where city is Denver,count
+compare checkouts across branch,compare
+"which is higher, downtime for Plant 2 or Plant 1",compare
+trend of enrollments over time,trend
+give me a count of posts,count
+plot downtime since january,trend
+number of device logs with sensor type equal to humidity,count
+count the listings where city is Seattle,count
+tally the temperature sensor readings,count
+show staff members where employment type is contractor,filter
+which customers are from gold,filter
+how many deliveries do we have,count
+how many accounts have transaction amount above 50,count
+customers over the past 12 months,trend
+plot delivery time since january,trend
+total listing price by property type,aggregate
+count the enrollments where class year is sophomore,count
+the 10 highest loan duration book loans,filter
+average bonus for full-time staff members,aggregate
+what is the average downtime of production batches,aggregate
+count how many course registrations are scholarship,count
+show staff members trend by year,trend
+how did TikTok campaigns change over the year,trend
+give me assembly runs that have factory set to Plant 3,filter
+yearly trend of late fee by branch,trend
+monthly trend of order total,trend
+how many games do we have,count
+show checkouts where branch is main branch,filter
+count how many campaigns are image,count
+compare games across team,compare
+how does order total break down by cuisine,aggregate
+any production batches that are Plant 1,filter
+what's the battery level per location look like,aggregate
+show shipments trend by year,trend
+how many course registrations are there,count
+average account balance for checking transactions,aggregate
+monthly trend of loan duration,trend
+the 50 highest salary employees,filter
+"which is higher, square footage for apartment or house",compare
+how many shipments do we have,count
+yearly trend of interest rate by branch,trend
+what is the minimum order total for sales transactions,aggregate
+show orders with tip amount under 40,filter
+did tip amount go up or down since last year,trend
+give me a count of players,count
+give me the numbers for battery level by sensor type,aggregate
+GPA distribution across class year,aggregate
+any shipments that are USPS,filter
+how many female employees are in the system,count
+pull up production batches tagged Plant 2,filter
+plot tip amount since january,trend
+how do suburban and downtown stack up,compare
+show carts trend by year,trend
+"who has more transaction amount, downtown or uptown",compare
+compare patients across blood type,compare
+who are the economics students,filter
+compare position groups based on minutes played,compare
+does female or male have more employees,compare
+which deliveries have status of returned,filter
+"who has more loan duration, science or non-fiction",compare
+number of patients with admission type equal to referral,count
+how much tip amount on average for indian reservations,aggregate
+how has bonus changed over the years,trend
+how many checkouts do we have,count
+is Germany ahead of USA in lifetime value,compare
+"who has more length of stay, O- or B+",compare
+how many campaigns are there,count
+is O+ ahead of O- in billing amount,compare
+narrow this down to Eagles games,filter
+"which is higher, cart size for Germany or Canada",compare
+"who has more battery level, motion or pressure",compare
+what's the weight per status look like,aggregate
+which posts are from text,filter
+how many employees are there,count
+"which is higher, prep time for italian or chinese",compare
+orders over the past 12 months,trend
+shares distribution across content type,aggregate
+orders count for West,count
+the 5 highest quantity sold sales transactions,filter
+how does credit card compare to gift card in terms of quantity sold,compare
+list all games with team equal to Lions,filter
+is indian ahead of mexican in order total,compare
+is billing amount increasing or decreasing,trend
+downtime trend by month,trend
+"enrollments with tuition above 1000, please",filter
+what is the maximum length of stay among patients,aggregate
+average GPA grouped by major,aggregate
+reservations over the past 12 months,trend
+what's the headcount of video posts,count
+top 10 orders by order total,filter
+just the warehouse B sensor readings,filter
+how many employees have salary above 10,count
+yearly trend of billing amount by blood type,trend
+how does full-time compare to contractor in terms of bonus,compare
+sum of days on market for listings,aggregate
+count how many sales transactions are South,count
+does O- or B+ have more admissions,compare
+compare in transit and delayed deliveries by delivery time,compare
+how does weight break down by status,aggregate
+can you find checkouts with genre fiction,filter
+listings count for Seattle,count
+checking vs savings,compare
+did order frequency go up or down since last year,trend
+give me a count of production batches,count
+quantity sold month over month,trend
+give me the numbers for downtime by product line,aggregate
+"sales transactions with revenue above 10, please",filter
+find posts that are video,filter
+compare average battery level between temperature and pressure,compare
+number of carts with membership tier equal to silver,count
+compare dine-in and delivery reservations by order total,compare
+compare pressure and humidity device logs by battery level,compare
+trend of shipments over time,trend
+is GPA increasing or decreasing,trend
+which carrier performs better on weight,compare
+show average order total per cuisine,aggregate
+how many matches in total,count
+display employees filtered by gender male,filter
+average reading value grouped by location,aggregate
+total reading value by sensor type,aggregate
+admissions count for emergency,count
+average battery level for pressure device logs,aggregate
+give me the numbers for quantity sold by payment method,aggregate
+give me a count of sensor readings,count
+"which is higher, points for midfielder or goalkeeper",compare
+count the checkouts where genre is mystery,count
+show carts with order frequency under 250,filter
+tip amount breakdown by cuisine,aggregate
+what's the headcount of in transit deliveries,count
+weight over time for FedEx,trend
+count the admissions where admission type is emergency,count
+find course registrations that are senior,filter
+compare average tuition between no scholarship and scholarship,compare
+what is the average late fee of checkouts,aggregate
+how many transactions have transaction amount above 100,count
+show carts growth over the last year,trend
+freshman versus senior by credit hours,compare
+major-wise credit hours numbers,aggregate
+trend of posts over time,trend
+yearly trend of length of stay by admission type,trend
+average delivery time for delayed deliveries,aggregate
+show games where team is Lions,filter
+show deliveries with weight under 500,filter
+show average tuition per scholarship status,aggregate
+compare average tip amount between indian and mexican,compare
+which properties are from apartment,filter
+"which is higher, battery level for warehouse A or factory floor",compare
+platform-wise shares numbers,aggregate
+delivered vs in transit,compare
+average billing amount for referral patients,aggregate
+how does credit compare to savings in terms of account balance,compare
+does mexican or indian have more reservations,compare
+order total trend by month,trend
+"which is higher, reading value for humidity or pressure",compare
+count the production batches where factory is Plant 2,count
+how did staff members move each month,trend
+total bonus by gender,aggregate
+did late fee go up or down since last year,trend
+pull up deliveries tagged in transit,filter
+number of orders with order type equal to dine-in,count
+which patients have blood type of O+,filter
+which device logs have sensor type of pressure,filter
+is lifetime value increasing or decreasing,trend
+loan duration breakdown by branch,aggregate
+account balance month over month,trend
+staff members count for marketing,count
+"which is higher, goals scored for goalkeeper or midfielder",compare
+how many checkouts are there,count
+how did emergency patients change over the year,trend
+find sensor readings that are office,filter
+properties located in Austin,filter
+the 500 highest units produced assembly runs,filter
+show accounts trend by year,trend
+how much units produced on average for Plant 2 production batches,aggregate
+compare goalkeeper and midfielder players by goals scored,compare
+which purchases have product category of groceries,filter
+employees count for contractor,count
+count how many sensor readings are motion,count
+just the USA customers,filter
+is downtown ahead of suburban in interest rate,compare
+what is the average reading value of device logs,aggregate
+plot units produced since january,trend
+carts count for Canada,count
+compare sales and HR employees by salary,compare
+which book loans are from main branch,filter
+blood type-wise age numbers,aggregate
+what is the maximum bonus among employees,aggregate
+transactions located in savings,filter
+narrow this down to line A assembly runs,filter
+"who has more tip amount, delivery or takeout",compare
+yearly trend of downtime by product line,trend
+compare Denver and Austin properties by listing price,compare
+give me employees that have gender set to female,filter
+yearly trend of revenue by payment method,trend
+show average transaction amount per transaction type,aggregate
+what's the headcount of delayed shipments,count
+how did warehouse B sensor readings change over the year,trend
+give me carts that have membership tier set to gold,filter
+Eagles vs Tigers,compare
+delivery time month over month,trend
+find admissions that are O+,filter
+can you find orders with order type delivery,filter
+"which is higher, days on market for townhouse or condo",compare
+compare average salary between sales and engineering,compare
+what is the average delivery time of shipments,aggregate
+"which is higher, credit hours for scholarship or no scholarship",compare
+compare order type groups based on tip amount,compare
+delivery time breakdown by carrier,aggregate
+what's the transaction amount per branch look like,aggregate
+is likes increasing or decreasing,trend
+give me the split of battery level across location,aggregate
+pull up checkouts tagged science,filter
+number of production batches with factory equal to Plant 3,count
+how much listing price on average for Denver properties,aggregate
+show device logs trend by year,trend
+find matches that are defender,filter
+what's the engagement rate per platform look like,aggregate
+engagement rate trend by month,trend
+revenue month over month,trend
+days on market over time for apartment,trend
+is battery level increasing or decreasing,trend
+how does full-time compare to part-time in terms of years of experience,compare
+which games are from Eagles,filter
+compare line B and line A production batches by downtime,compare
+goalkeeper versus midfielder by goals scored,compare
+text posts with likes over 5,filter
+compare players across position,compare
+plot GPA since january,trend
+class year-wise GPA numbers,aggregate
+how does order frequency break down by membership tier,aggregate
+how did accounts move each month,trend
+plot defect rate since january,trend
+does contractor or full-time have more staff members,compare
+give me sales transactions that have region set to South,filter
+how many checking transactions are in the system,count
+what is the total number of transactions,count
+is Plant 3 ahead of Plant 1 in downtime,compare
+minutes played month over month,trend
+customers located in silver,filter
+compare average defect rate between line A and line C,compare
+how do condo and apartment stack up,compare
+does junior or sophomore have more course registrations,compare
+how much transaction amount on average for suburban accounts,aggregate
+book loans over the past 12 months,trend
+what's the headcount of gold customers,count
+compare average battery level between pressure and temperature,compare
+what's the reading value per location look like,aggregate
+how many production batches are there,count
+how many assembly runs were Plant 1 last year,count
+emergency versus routine by length of stay,compare
+any purchases that are groceries,filter
+did age go up or down since last year,trend
+how many reservations in total,count
+can you find assembly runs with factory Plant 3,filter
+how did defender games change over the year,trend
+compare warehouse A and office sensor readings by battery level,compare
+average salary for male employees,aggregate
+show average reading value per location,aggregate
+reading value over time for motion,trend
+carts over the past 12 months,trend
+give me the numbers for bonus by department,aggregate
+how many carts have lifetime value above 40,count
+trend of players over time,trend
+sum of units produced for assembly runs,aggregate
+show games growth over the last year,trend
+show average bonus per gender,aggregate
+how did economics enrollments change over the year,trend
+yearly trend of billing amount by admission type,trend
+average interest rate for withdrawal transactions,aggregate
+how does salary break down by gender,aggregate
+show average downtime per factory,aggregate
+count how many properties are Austin,count
+carts count for bronze,count
+monthly trend of downtime,trend
+how many sales transactions do we have,count
+give me the numbers for lifetime value by membership tier,aggregate
+tally the in transit shipments,count
+show book loans with late fee under 5,filter
+properties over the past 12 months,trend
+pull up enrollments tagged senior,filter
+total salary by gender,aggregate
+"who has more delivery time, in transit or delayed",compare
+"which is higher, listing price for apartment or townhouse",compare
+what's the headcount of silver carts,count
+compare accounts across transaction type,compare
+count how many staff members are part-time,count
+total downtime by factory,aggregate
+give me shipments that have carrier set to DHL,filter
+which sensor readings have sensor type of temperature,filter
+give me the split of revenue across payment method,aggregate
+count the matches where team is Tigers,count
+get all reservations where order total is greater than 500,filter
+how much tuition on average for sophomore enrollments,aggregate
+how many reservations are there,count
+how many players were forward last year,count
+plot account balance since january,trend
+"reservations with prep time above 500, please",filter
+which customers have membership tier of silver,filter
+"which is higher, points for forward or defender",compare
+get all campaigns where engagement rate is greater than 5,filter
+how many enrollments are there,count
+monthly trend of reading value,trend
+who are the Germany carts,filter
+what's the headcount of no scholarship students,count
+give me the numbers for shipping cost by status,aggregate
+how did TikTok posts change over the year,trend
+which branch performs better on transaction amount,compare
+get all students where tuition is greater than 500,filter
+show average tip amount per order type,aggregate
+how has square footage changed over the years,trend
+is order total increasing or decreasing,trend
+prep time over time for mexican,trend
+total transaction amount by account type,aggregate
+find campaigns that are Instagram,filter
+compare branch groups based on account balance,compare
+listings over the past 12 months,trend
+what is the total number of carts,count
+yearly trend of transaction amount by account type,trend
+how did Instagram campaigns change over the year,trend
+video versus image by shares,compare
+biology versus history by GPA,compare
+give me production batches that have product line set to line B,filter
+how has age changed over the years,trend
+show listings trend by year,trend
+which players have position of goalkeeper,filter
+show device logs where location is office,filter
+billing amount distribution across blood type,aggregate
+how many staff members have salary above 100,count
+delayed vs in transit,compare
+give me the split of shipping cost across carrier,aggregate
+what is the minimum goals scored for players,aggregate
+what's the typical engagement rate for posts,aggregate
+how many checkouts were fiction last year,count
+how much order total on average for dine-in reservations,aggregate
+withdrawal vs deposit,compare
+which property type performs better on listing price,compare
+pull up shipments tagged delivered,filter
+what's the headcount of sophomore enrollments,count
+tally the science checkouts,count
+compare average order total between North and West,compare
+show listings with days on market under 50,filter
+how many campaigns have likes above 1000,count
+how many shipments were delayed last year,count
+bonus distribution across department,aggregate
+what is the total number of course registrations,count
+how many sensor readings are there,count
+prep time trend by month,trend
+did length of stay go up or down since last year,trend
+give me a count of matches,count
+minutes played breakdown by position,aggregate
+how many listings do we have,count
+country-wise lifetime value numbers,aggregate
+trend of games over time,trend
+compare product line groups based on defect rate,compare
+"who has more order frequency, gold or silver",compare
+economics course registrations with tuition over 50,filter
+trend of accounts over time,trend
+"who has more likes, image or text",compare
+list all campaigns with content type equal to image,filter
+who are the motion sensor readings,filter
+"who has more shares, video or text",compare
+how many properties do we have,count
+count the checkouts where branch is main branch,count
+any enrollments that are no scholarship,filter
+what's the headcount of O- admissions,count
+late fee month over month,trend
+give me a count of properties,count
+trend of transactions over time,trend
+does paypal or credit card have more orders,compare
+how did UK carts change over the year,trend
+give me a count of shipments,count
+units produced over time for line A,trend
+what is the total number of games,count
+Facebook vs Twitter,compare
+can you find deliveries with status in transit,filter
+any posts that are TikTok,filter
+show patients where admission type is referral,filter
+number of course registrations with scholarship status equal to scholarship,count
+which branch performs better on late fee,compare
+narrow this down to midfielder games,filter
+line C versus line B by downtime,compare
+does no scholarship or scholarship have more students,compare
+who are the mexican orders,filter
+average years of experience for male employees,aggregate
+compare house and apartment properties by square footage,compare
+number of accounts with transaction type equal to withdrawal,count
+delivery time trend by month,trend
+how does paypal compare to gift card in terms of revenue,compare
+does non-fiction or mystery have more checkouts,compare
+did prep time go up or down since last year,trend
+how many students have credit hours above 10,count
+show book loans trend by year,trend
+show properties trend by year,trend
+compare genre groups based on loan duration,compare
+"carts with cart size above 10, please",filter
+order frequency over time for bronze,trend
+display transactions filtered by branch downtown,filter
+yearly trend of years of experience by employment type,trend
+"which is higher, late fee for west branch or main branch",compare
+count the patients where blood type is A+,count
+what's the typical order frequency for carts,aggregate
+bonus over time for part-time,trend
+tip amount breakdown by order type,aggregate
+just the Twitter campaigns,filter
+what is the average defect rate of assembly runs,aggregate
+the 50 highest defect rate production batches,filter
+"which is higher, shipping cost for UPS or DHL",compare
+trend of deliveries over time,trend
+sensor readings located in warehouse A,filter
+which matches have position of midfielder,filter
+what is the minimum order frequency for carts,aggregate
+give me the split of years of experience across employment type,aggregate
+compare scholarship status groups based on credit hours,compare
+display device logs filtered by sensor type pressure,filter
+is in transit ahead of delivered in shipping cost,compare
+show transactions growth over the last year,trend
+which city performs better on square footage,compare
+display accounts filtered by transaction type withdrawal,filter
+how much salary on average for contractor employees,aggregate
+tally the Tigers matches,count
+how did patients move each month,trend
+total cart size by membership tier,aggregate
+what is the total number of accounts,count
+can you find carts with country Canada,filter
+how many posts have engagement rate above 100,count
+what is the maximum account balance among transactions,aggregate
+any sales transactions that are North,filter
+show average lifetime value per membership tier,aggregate
+how many patients in total,count
+give me employees that have department set to finance,filter
+is Plant 1 ahead of Plant 2 in downtime,compare
+just the freshman enrollments,filter
+what is the average lifetime value of carts,aggregate
+get all staff members where years of experience is greater than 100,filter
+dine-in vs delivery,compare
+trend of checkouts over time,trend
+chinese reservations with prep time over 40,filter
+did interest rate go up or down since last year,trend
+how did sales transactions move each month,trend
+how does chinese compare to mexican in terms of tip amount,compare
+plot points since january,trend
+is order frequency increasing or decreasing,trend
+count how many games are Sharks,count
+is engagement rate increasing or decreasing,trend
+count how many campaigns are Twitter,count
+display campaigns filtered by platform TikTok,filter
+how much age on average for A- patients,aggregate
+how has goals scored changed over the years,trend
+what is the average tuition of course registrations,aggregate
+how much bonus on average for engineering employees,aggregate
+which assembly runs are from line B,filter
+customers located in gold,filter
+how did course registrations move each month,trend
+what is the total number of deliveries,count
+monthly trend of likes,trend
+display players filtered by position defender,filter
+compare senior and junior enrollments by tuition,compare
+compare average downtime between line B and line A,compare
+emergency admissions with length of stay over 40,filter
+is shares increasing or decreasing,trend
+how did suburban accounts change over the year,trend
+warehouse A versus warehouse B by battery level,compare
+tally the dine-in reservations,count
+how many listings were Austin last year,count
+narrow this down to office device logs,filter
+list all enrollments with major equal to biology,filter
+yearly trend of quantity sold by region,trend
+"which is higher, cart size for Canada or USA",compare
+total minutes played by team,aggregate
+compare cuisine groups based on prep time,compare
+how many delivery reservations are in the system,count
+how many credit card sales transactions are in the system,count
+compare factory groups based on units produced,compare
+shipments located in returned,filter
+"which is higher, bonus for sales or marketing",compare
+how has delivery time changed over the years,trend
+who are the italian reservations,filter
+can you find shipments with status in transit,filter
+points over time for Eagles,trend
+how do senior and junior stack up,compare
+battery level distribution across sensor type,aggregate
+show device logs growth over the last year,trend
+how did production batches move each month,trend
+count the players where team is Lions,count
+"which is higher, likes for Twitter or Facebook",compare
+compare part-time and contractor employees by bonus,compare
+how do italian and chinese stack up,compare
+shipments located in delayed,filter
+revenue trend by month,trend
+how many employees were contractor last year,count
+total order total by cuisine,aggregate
+give me course registrations that have major set to history,filter
+downtime distribution across factory,aggregate
+units produced trend by month,trend
+which staff members are from sales,filter
+count how many enrollments are economics,count
+show campaigns trend by year,trend
+who are the warehouse B sensor readings,filter
+how many book loans have late fee above 50,count
+square footage trend by month,trend
+count the patients where admission type is referral,count
+yearly trend of days on market by city,trend
+what's the minutes played per team look like,aggregate
+give me the numbers for GPA by major,aggregate
+how did scholarship students change over the year,trend
+how many purchases were paypal last year,count
+how do townhouse and condo stack up,compare
+posts over the past 12 months,trend
+just the Facebook posts,filter
+minutes played trend by month,trend
+what is the minimum billing amount for admissions,aggregate
+compare gold and bronze customers by lifetime value,compare
+show average loan duration per genre,aggregate
+compare orders across order type,compare
+what's the typical minutes played for matches,aggregate
+which factory performs better on downtime,compare
+interest rate trend by month,trend
+savings vs checking,compare
+number of deliveries with status equal to returned,count
+yearly trend of credit hours by scholarship status,trend
+orders located in mexican,filter
+does mystery or fiction have more checkouts,compare
+how has interest rate changed over the years,trend
+sum of salary for staff members,aggregate
+number of orders with payment method equal to credit card,count
+how did assembly runs move each month,trend
+what's the headcount of temperature device logs,count
+transaction amount month over month,trend
+how many patients have billing amount above 50,count
+compare carrier groups based on shipping cost,compare
+how many students do we have,count
+is senior ahead of freshman in credit hours,compare
+what's the typical likes for posts,aggregate
+trend of matches over time,trend
+trend of properties over time,trend
+get all campaigns where shares is greater than 100,filter
+"which is higher, billing amount for routine or referral",compare
+how much delivery time on average for in transit deliveries,aggregate
+how many accounts were checking last year,count
+is cart size increasing or decreasing,trend
+count the admissions where blood type is A+,count
+list all listings with property type equal to apartment,filter
+length of stay distribution across admission type,aggregate
+display purchases filtered by payment method paypal,filter
+how do scholarship and no scholarship stack up,compare
+patients located in A+,filter
+give me the split of salary across employment type,aggregate
+what is the maximum tuition among course registrations,aggregate
+status-wise weight numbers,aggregate
+compare staff members across gender,compare
+how many non-fiction book loans are in the system,count
+number of carts with membership tier equal to bronze,count
+length of stay month over month,trend
+how does prep time break down by order type,aggregate
+how many accounts were downtown last year,count
+campaigns count for Instagram,count
+display orders filtered by order type takeout,filter
+how many campaigns do we have,count
+accounts count for checking,count
+average length of stay for routine admissions,aggregate
+give me the split of square footage across property type,aggregate
+USA carts with cart size over 100,filter
+compare blood type groups based on age,compare
+how much age on average for O+ patients,aggregate
+how much engagement rate on average for image posts,aggregate
+units produced breakdown by product line,aggregate
+admissions count for routine,count
+compare average billing amount between routine and emergency,compare
+order frequency over time for Germany,trend
+average square footage grouped by property type,aggregate
+cuisine-wise prep time numbers,aggregate
+count the enrollments where major is computer science,count
+how did motion device logs change over the year,trend
+Tigers players with goals scored over 25,filter
+what's the typical order total for orders,aggregate
+order total breakdown by region,aggregate
+pull up course registrations tagged no scholarship,filter
+what is the maximum battery level among sensor readings,aggregate
+reading value over time for office,trend
+which sensor type performs better on battery level,compare
+UK vs Germany,compare
+what's the typical shares for campaigns,aggregate
+any assembly runs that are line C,filter
+the 25 highest order total reservations,filter
+get all book loans where loan duration is greater than 5,filter
+is account balance increasing or decreasing,trend
+which content type performs better on engagement rate,compare
+how do in transit and returned stack up,compare
+plot years of experience since january,trend
+region-wise quantity sold numbers,aggregate
+temperature versus pressure by reading value,compare
+list all students with major equal to history,filter
+display purchases filtered by region Central,filter
+device logs count for office,count
+how many employees have salary above 500,count
+the 250 highest order total sales transactions,filter
+what is the average GPA of students,aggregate
+tally the chinese reservations,count
+female employees with bonus over 500,filter
+monthly trend of years of experience,trend
+how many orders do we have,count
+"which is higher, prep time for chinese or indian",compare
+what's the typical prep time for reservations,aggregate
+which course registrations are from history,filter
+yearly trend of units produced by product line,trend
+cart size month over month,trend
+"listings with days on market above 50, please",filter
+how many Denver properties are in the system,count
+how has listing price changed over the years,trend
+count how many properties are townhouse,count
+how many posts are there,count
+what's the typical battery level for device logs,aggregate
+how many purchases do we have,count
+how many enrollments in total,count
+show average likes per content type,aggregate
+what is the total number of admissions,count
+show transactions where account type is credit,filter
+battery level breakdown by sensor type,aggregate
+show patients where admission type is routine,filter
+is midfielder ahead of goalkeeper in points,compare
+narrow this down to FedEx shipments,filter
+which admissions have admission type of routine,filter
+what's the headcount of line B production batches,count
+did bonus go up or down since last year,trend
+does DHL or FedEx have more shipments,compare
+how many accounts do we have,count
+is bonus increasing or decreasing,trend
+what's the days on market per property type look like,aggregate
+can you find carts with membership tier silver,filter
+show average account balance per transaction type,aggregate
+find listings that are townhouse,filter
+square footage breakdown by property type,aggregate
+how did sophomore students change over the year,trend
+Tigers vs Sharks,compare
+show average shares per content type,aggregate
+the 250 highest units produced production batches,filter
+is Eagles ahead of Tigers in minutes played,compare
+plot billing amount since january,trend
+how many orders were chinese last year,count
+which platform performs better on shares,compare
+trend of carts over time,trend
+is takeout ahead of delivery in order total,compare
+average prep time for mexican reservations,aggregate
+what is the minimum salary for staff members,aggregate
+sum of reading value for device logs,aggregate
+which department performs better on bonus,compare
+warehouse A device logs with reading value over 5,filter
+count the carts where membership tier is silver,count
+yearly trend of length of stay by blood type,trend
+average lifetime value for bronze carts,aggregate
+average bonus grouped by department,aggregate
+male staff members with years of experience over 100,filter
+compare gold and silver customers by order frequency,compare
+what's the headcount of motion sensor readings,count
+games located in Sharks,filter
+does savings or checking have more accounts,compare
+how has prep time changed over the years,trend
+which product line performs better on units produced,compare
+top 40 device logs by reading value,filter
+how many staff members have salary above 1000,count
+give me deliveries that have carrier set to DHL,filter
+how has transaction amount changed over the years,trend
+yearly trend of delivery time by carrier,trend
+how many science checkouts are in the system,count
+how many condo properties are in the system,count
+show book loans where genre is mystery,filter
+downtime over time for line B,trend
+any games that are Sharks,filter
+how many course registrations have GPA above 50,count
+image vs text,compare
+how do Plant 2 and Plant 3 stack up,compare
+show employees where department is engineering,filter
+"games with minutes played above 10, please",filter
+can you find purchases with product category furniture,filter
+did billing amount go up or down since last year,trend
+did engagement rate go up or down since last year,trend
+get all campaigns where shares is greater than 10,filter
+show book loans growth over the last year,trend
+did credit hours go up or down since last year,trend
+how did O- admissions change over the year,trend
+which games are from Lions,filter
+what's the headcount of North orders,count
+give me the numbers for loan duration by genre,aggregate
+monthly trend of shipping cost,trend
+any staff members that are female,filter
+what's the headcount of midfielder games,count
+what's the headcount of Instagram campaigns,count
+"orders with revenue above 10, please",filter
+monthly trend of days on market,trend
+what is the total number of sensor readings,count
+how much square footage on average for condo properties,aggregate
+who are the Tigers games,filter
+how many assembly runs were Plant 2 last year,count
+compare class year groups based on credit hours,compare
+how many players were goalkeeper last year,count
+average quantity sold for groceries purchases,aggregate
+which campaigns have platform of Facebook,filter
+"which is higher, discount amount for cash or credit card",compare
+compare campaigns across content type,compare
+"which is higher, account balance for deposit or transfer",compare
+give me assembly runs that have factory set to Plant 1,filter
+total tip amount by cuisine,aggregate
+any properties that are Seattle,filter
+how many games in total,count
+late fee breakdown by branch,aggregate
+give me the split of likes across content type,aggregate
+"which is higher, late fee for science or non-fiction",compare
+DHL deliveries with weight over 10,filter
+how do A- and O+ stack up,compare
+show assembly runs where factory is Plant 2,filter
+does Denver or Seattle have more properties,compare
+show reservations trend by year,trend
+accounts over the past 12 months,trend
+show patients trend by year,trend
+is bronze ahead of silver in lifetime value,compare
+give me a count of sales transactions,count
+what's the headcount of line A production batches,count
+how does revenue break down by product category,aggregate
+show average order total per product category,aggregate
+how does house compare to condo in terms of listing price,compare
+who are the line B assembly runs,filter
+how has minutes played changed over the years,trend
+list all sales transactions with region equal to Central,filter
+how many production batches do we have,count
+how many players in total,count
+list all carts with membership tier equal to gold,filter
+bonus breakdown by department,aggregate
+total weight by carrier,aggregate
+properties located in Denver,filter
+likes over time for image,trend
+how does bonus break down by gender,aggregate
+tally the A- admissions,count
+monthly trend of GPA,trend
+count how many carts are USA,count
+any games that are goalkeeper,filter
+how has battery level changed over the years,trend
+"which is higher, points for Lions or Sharks",compare
+how many staff members were contractor last year,count
+narrow this down to USPS shipments,filter
+what is the minimum order total for reservations,aggregate
+trend of listings over time,trend
+show patients growth over the last year,trend
+Plant 2 vs Plant 1,compare
+"which is higher, order total for indian or chinese",compare
+what is the minimum delivery time for deliveries,aggregate
+get all listings where square footage is greater than 10,filter
+does silver or gold have more carts,compare
+did minutes played go up or down since last year,trend
+country-wise order frequency numbers,aggregate
+how many midfielder games are in the system,count
+yearly trend of engagement rate by platform,trend
+what's the headcount of scholarship students,count
+how many deliveries are there,count
+show average minutes played per team,aggregate
+book loans count for main branch,count
+discount amount breakdown by payment method,aggregate
+finance versus sales by bonus,compare
+what is the minimum tip amount for reservations,aggregate
+number of customers with country equal to UK,count
+how many checkouts have loan duration above 25,count
+give me the numbers for engagement rate by platform,aggregate
+salary trend by month,trend
+content type-wise engagement rate numbers,aggregate
+what's the shipping cost per status look like,aggregate
+bronze vs silver,compare
+what's the typical shipping cost for deliveries,aggregate
+show posts trend by year,trend
+display customers filtered by country USA,filter
+non-fiction versus science by late fee,compare
+location-wise reading value numbers,aggregate
+"which is higher, engagement rate for TikTok or Twitter",compare
+how has quantity sold changed over the years,trend
+get all reservations where tip amount is greater than 500,filter
+how many campaigns in total,count
+age month over month,trend
+is late fee increasing or decreasing,trend
+pull up transactions tagged suburban,filter
+give me a count of games,count
+show reservations growth over the last year,trend
+tally the apartment properties,count
+compare routine and emergency admissions by age,compare
+is transfer ahead of deposit in interest rate,compare
+any students that are no scholarship,filter
+shipments count for in transit,count
+revenue over time for furniture,trend
+video vs image,compare
+what is the maximum reading value among sensor readings,aggregate
+total engagement rate by content type,aggregate
+show average cart size per membership tier,aggregate
+give me a count of orders,count
+which matches are from midfielder,filter
+top 10 deliveries by shipping cost,filter
+"who has more late fee, main branch or west branch",compare
+how many orders in total,count
+which location performs better on battery level,compare
+tally the groceries purchases,count
+"who has more quantity sold, groceries or furniture",compare
+how do humidity and pressure stack up,compare
+what's the typical downtime for production batches,aggregate
+just the USPS shipments,filter
+how did full-time staff members change over the year,trend
+which cuisine performs better on tip amount,compare
+interest rate breakdown by transaction type,aggregate
+branch-wise late fee numbers,aggregate
+sum of GPA for students,aggregate
+average account balance for transfer accounts,aggregate
+is quantity sold increasing or decreasing,trend
+compare average likes between Twitter and Facebook,compare
+list all sales transactions with product category equal to groceries,filter
+how many sales transactions in total,count
+how does Twitter compare to TikTok in terms of shares,compare
+count the properties where property type is townhouse,count
+GPA over time for economics,trend
+show average units produced per product line,aggregate
+who are the paypal sales transactions,filter
+trend of sales transactions over time,trend
+display production batches filtered by product line line A,filter
+how did employees move each month,trend
+which enrollments are from economics,filter
+yearly trend of listing price by property type,trend
+how does warehouse B compare to warehouse A in terms of battery level,compare
+which platform performs better on engagement rate,compare
+students count for scholarship,count
+scholarship vs no scholarship,compare
+pull up accounts tagged suburban,filter
+show customers trend by year,trend
+compare male and female employees by years of experience,compare
+monthly trend of revenue,trend
+is text ahead of video in likes,compare
+does delivery or dine-in have more reservations,compare
+delivery versus dine-in by tip amount,compare
+count how many production batches are Plant 2,count
+count how many customers are bronze,count
+how many transactions have transaction amount above 500,count
+what is the average order frequency of customers,aggregate
+how many campaigns were Instagram last year,count
+show checkouts with loan duration under 5,filter
+average order total grouped by order type,aggregate
+give me the numbers for quantity sold by region,aggregate
+compare department groups based on years of experience,compare
+what's the headcount of routine admissions,count
+which campaigns are from text,filter
+how many patients have billing amount above 100,count
+goals scored month over month,trend
+what is the total number of book loans,count
+billing amount trend by month,trend
+plot square footage since january,trend
+how many customers have cart size above 25,count
+"who has more revenue, gift card or credit card",compare
+list all orders with payment method equal to gift card,filter
+is gold ahead of silver in cart size,compare
+can you find admissions with admission type referral,filter
+any transactions that are uptown,filter
+how does transaction amount break down by transaction type,aggregate
+compare position groups based on goals scored,compare
+how much order frequency on average for Germany carts,aggregate
+what is the total number of matches,count
+what is the minimum order total for purchases,aggregate
+tally the credit card orders,count
+how do factory floor and office stack up,compare
+compare average listing price between apartment and house,compare
+which position performs better on minutes played,compare
+plot battery level since january,trend
+find carts that are silver,filter
+loan duration month over month,trend
+how many temperature device logs are in the system,count
+monthly trend of defect rate,trend
+any carts that are Germany,filter
+how many Austin listings are in the system,count
+show customers growth over the last year,trend
+average quantity sold grouped by payment method,aggregate
+what's the likes per platform look like,aggregate
+give me a count of purchases,count
+what's the typical order frequency for customers,aggregate
+what's the headcount of contractor employees,count
+how does motion compare to humidity in terms of reading value,compare
+did points go up or down since last year,trend
+"which is higher, transaction amount for credit or savings",compare
+how did orders move each month,trend
+how does office compare to factory floor in terms of battery level,compare
+condo vs apartment,compare
+which team performs better on minutes played,compare
+does electronics or clothing have more orders,compare
+count the deliveries where status is delivered,count
+show average days on market per city,aggregate
+monthly trend of bonus,trend
+give me sales transactions that have region set to West,filter
+give me the numbers for engagement rate by content type,aggregate
+total interest rate by branch,aggregate
+how much goals scored on average for midfielder games,aggregate
+find campaigns that are image,filter
+monthly trend of weight,trend
+average credit hours for biology students,aggregate
+how many listings are there,count
+get all course registrations where tuition is greater than 500,filter
+how does HR compare to engineering in terms of salary,compare
+which team performs better on goals scored,compare
+compare reservations across cuisine,compare
+what's the headcount of mexican orders,count
+show orders growth over the last year,trend
+years of experience month over month,trend
+checkouts over the past 12 months,trend
+credit hours trend by month,trend
+O+ versus O- by age,compare
+prep time over time for chinese,trend
+give me the split of interest rate across branch,aggregate
+shipping cost over time for USPS,trend
+how many male employees are in the system,count
+what's the typical defect rate for assembly runs,aggregate
+what's the goals scored per team look like,aggregate
+find assembly runs that are line C,filter
+how do silver and gold stack up,compare
+square footage over time for condo,trend
+how many admissions were referral last year,count
+compare customers across membership tier,compare
+give me the numbers for account balance by branch,aggregate
+how has salary changed over the years,trend
+plot minutes played since january,trend
+give me the numbers for transaction amount by transaction type,aggregate
+display orders filtered by product category electronics,filter
+count the employees where gender is female,count
+give me the split of account balance across branch,aggregate
+compare players across team,compare
+who are the text posts,filter
+average discount amount for Central orders,aggregate
+give me the split of loan duration across genre,aggregate
+is interest rate increasing or decreasing,trend
+show checkouts with late fee under 5,filter
+show players trend by year,trend
+display orders filtered by cuisine mexican,filter
+length of stay trend by month,trend
+compare house and townhouse listings by days on market,compare
+how many reservations do we have,count
+how does quantity sold break down by product category,aggregate
+count how many sensor readings are warehouse B,count
+can you find book loans with genre fiction,filter
+how does savings compare to checking in terms of interest rate,compare
+compare production batches across product line,compare
+show average lifetime value per country,aggregate
+compare average years of experience between contractor and part-time,compare
+engagement rate month over month,trend
+monthly trend of billing amount,trend
+years of experience over time for full-time,trend
+how did chinese reservations change over the year,trend
+how do Plant 1 and Plant 2 stack up,compare
+which gender performs better on years of experience,compare
+top 40 patients by length of stay,filter
+how has defect rate changed over the years,trend
+what is the total number of campaigns,count
+how many senior course registrations are in the system,count
+trend of orders over time,trend
+which games are from forward,filter
+what's the headcount of savings accounts,count
+how much goals scored on average for forward matches,aggregate
+compare city groups based on square footage,compare
+count the sensor readings where sensor type is motion,count
+show orders trend by year,trend
+show production batches growth over the last year,trend
