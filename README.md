@@ -1,5 +1,7 @@
 # ML-Assisted Natural Language to SQL Query System
 
+**🔗 Live demo:** [ml-assisted-natural-language-to-sql-query-system.streamlit.app](https://ml-assisted-natural-language-to-sql-query-system.streamlit.app/)
+
 This project implements an end-to-end pipeline that allows users to query **any tabular CSV dataset**
 using **plain English** — not just the healthcare example dataset it ships with. Upload any CSV and
 the app adapts to its columns automatically.
