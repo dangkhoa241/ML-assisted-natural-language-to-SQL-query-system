@@ -1,0 +1,151 @@
+text,label,split_type
+show me the patients admitted thru emergency who are over 65,filter,in_domain_hard
+emplyees in the sales dept hired after 2020,filter,in_domain_hard
+any houses in austin under 300k with a pool,filter,in_domain_hard
+which orders havent shipped yet,filter,in_domain_hard
+pull the students on academic probation in the cs major,filter,in_domain_hard
+i need the transactions flagged as fraud from last month,filter,in_domain_hard
+players who scored over 20 points and are still on rookie contracts,filter,in_domain_hard
+overdue books from the west branch pls,filter,in_domain_hard
+"sensors whose battery is below 15 percent, the ones in building b",filter,in_domain_hard
+give me the posts with more than 1k likes that are videos,filter,in_domain_hard
+the production batches that failed qc on line 3,filter,in_domain_hard
+vegan dishes on the menu that cost under 12 dollars,filter,in_domain_hard
+customers from germany who paid with paypal,filter,in_domain_hard
+"show me who got admitted for asthma, just the female patients",filter,in_domain_hard
+which products are out of stock right now,filter,in_domain_hard
+flights departing from denver that were delayed more than 2 hours,filter,unseen_domain
+show me hotel bookings with a sea view room for next weekend,filter,unseen_domain
+farms in iowa growing soybeans,filter,unseen_domain
+players above level 50 who haven't logged in this month,filter,unseen_domain
+solar installations producing over 10 kwh per day,filter,unseen_domain
+insurance claims marked as pending that were filed by drivers under 25,filter,unseen_domain
+rental cars returned with low fuel,filter,unseen_domain
+which guests checked in without a reservation,filter,unseen_domain
+pull up the denied flood damage claims,filter,unseen_domain
+the wheat fields that got less than 10 inches of rain,filter,unseen_domain
+economy passengers who requested a vegetarian meal on the lisbon route,filter,unseen_domain
+turbines in the north wind farm that are offline,filter,unseen_domain
+show the matches where the player rage quit before minute 5,filter,unseen_domain
+telecom subscribers on the unlimited plan whose contracts end in december,filter,unseen_domain
+rooms on floor 7 that still need cleaning,filter,unseen_domain
+whats our headcount in engineering these days,count,in_domain_hard
+"just tell me the total patients admitted last year, a single number",count,in_domain_hard
+how manny students failed calc this semester,count,in_domain_hard
+are there a lot of books overdue at main branch? need the exact figure,count,in_domain_hard
+total orders placed via the mobile app,count,in_domain_hard
+houses sold in 2023 - what's the tally,count,in_domain_hard
+hw mny shipments are stuck in customs,count,in_domain_hard
+size of the marketing team?,count,in_domain_hard
+"games won at home this season, just give me the tally",count,in_domain_hard
+tell me the amount of sensors reporting errors,count,in_domain_hard
+"reservations for friday night, what are we at",count,in_domain_hard
+"posts flagged for review today, total pls",count,in_domain_hard
+tell me the size of the customer complaint backlog this week,count,in_domain_hard
+"accounts opened since january, what's the figure",count,in_domain_hard
+employees on parental leave right now - just a number please,count,in_domain_hard
+"flights cancelled yesterday, what's the tally",count,unseen_domain
+how manyy guests are checked in at the downtown hotel,count,unseen_domain
+total claims filed after the hailstorm,count,unseen_domain
+players online on the eu servers - just the total,count,unseen_domain
+"farms enrolled in the subsidy program, give me a single number",count,unseen_domain
+tally up the outages in the eastern grid this week,count,unseen_domain
+"vacant rooms tonight, just the number",count,unseen_domain
+"passengers booked on flight ua 902, give me the headcount",count,unseen_domain
+whats the size of our fleet of rental suvs,count,unseen_domain
+"subscribers who churned in q2, need the total",count,unseen_domain
+quantity of tractors due for maintenance,count,unseen_domain
+has anyone filed more than one claim this year? i want the exact amount of such policyholders,count,unseen_domain
+"achievements unlocked by beta testers, give me the overall figure",count,unseen_domain
+wind turbines installed in texas - what does that come to,count,unseen_domain
+"bookings made thru expedia last month for the airport hotel, just the tally",count,unseen_domain
+whats the typical salary for engineers,aggregate,in_domain_hard
+how much do patients usually get billed per insurance provider,aggregate,in_domain_hard
+what do houses go for in each neighborhood,aggregate,in_domain_hard
+"how long does a delivery take per carrier, roughly",aggregate,in_domain_hard
+how much revenue did each store bring in,aggregate,in_domain_hard
+typical gpa in each major,aggregate,in_domain_hard
+biggest single transaction for each account type,aggregate,in_domain_hard
+points per game for every team this season,aggregate,in_domain_hard
+"what does a meal cost per cuisine type, generally",aggregate,in_domain_hard
+overall spend per customer segment,aggregate,in_domain_hard
+"temperature readings by sensor location, what's the norm",aggregate,in_domain_hard
+"how many likes do posts typically get, by platform",aggregate,in_domain_hard
+whats the longest a book stays checked out at each branch,aggregate,in_domain_hard
+units produced per shift summed up,aggregate,in_domain_hard
+how low does rent go in each city,aggregate,in_domain_hard
+typical fare per route,aggregate,unseen_domain
+"what does a night at each hotel run us, generally",aggregate,unseen_domain
+crop yield per acre for each region,aggregate,unseen_domain
+how long do players stay in a session per game mode,aggregate,unseen_domain
+kwh consumed per household in each state,aggregate,unseen_domain
+payout per claim type,aggregate,unseen_domain
+how much do renters spend per rental by car class,aggregate,unseen_domain
+data usage per plan tier,aggregate,unseen_domain
+how much fuel does each aircraft model burn per flight,aggregate,unseen_domain
+largest claim ever paid out in each region,aggregate,unseen_domain
+occupancy rate by hotel brand,aggregate,unseen_domain
+how much rain did each farm get altogether this season,aggregate,unseen_domain
+"in-game purchases, how much do they bring in per platform",aggregate,unseen_domain
+peak load recorded at each substation,aggregate,unseen_domain
+typical monthly phone bill per region,aggregate,unseen_domain
+are men or women billed more,compare,in_domain_hard
+do remote workers earn more than office ones,compare,in_domain_hard
+"who sells more, the downtown store or the mall one",compare,in_domain_hard
+is fedex faster than ups for us,compare,in_domain_hard
+do cs majors have better gpas than math majors,compare,in_domain_hard
+"which pays more interest, savings or checking accounts",compare,in_domain_hard
+"lakers or celtics, who scores more per game",compare,in_domain_hard
+do weekend diners tip better than weekday ones,compare,in_domain_hard
+are condos pricier than townhouses in this area,compare,in_domain_hard
+do indoor sensors drain battery faster than outdoor ones,compare,in_domain_hard
+"which branch lends out more books, east or west",compare,in_domain_hard
+do videos get more engagement than images,compare,in_domain_hard
+"line a and line b, which one has more defects",compare,in_domain_hard
+mobile app shoppers spend more than desktop shoppers or nah,compare,in_domain_hard
+is the er or the icu stay longer on average,compare,in_domain_hard
+"delta or united, which one has more delays",compare,unseen_domain
+do business class passengers complain less than economy,compare,unseen_domain
+do suites make more money than standard rooms,compare,unseen_domain
+"corn or soybeans, which gives better yield per acre",compare,unseen_domain
+do pc players spend more than console players,compare,unseen_domain
+is solar cheaper to run than wind for us,compare,unseen_domain
+auto claims against home claims - which pay out more,compare,unseen_domain
+are suv rentals longer than sedan rentals,compare,unseen_domain
+"which carrier drops fewer calls, verizon or att",compare,unseen_domain
+do weekend guests stay longer than business travellers,compare,unseen_domain
+"iowa farms or nebraska farms, whose harvest is bigger",compare,unseen_domain
+is ranked mode or casual mode more popular with players over 30,compare,unseen_domain
+did the coal plant or the gas plant produce more electricity,compare,unseen_domain
+young drivers and senior drivers: who files pricier claims,compare,unseen_domain
+do prepaid customers churn more than postpaid customers,compare,unseen_domain
+which month did we sell the most,trend,in_domain_hard
+how have admissions been changing since 2019,trend,in_domain_hard
+is employee turnover going up or down lately,trend,in_domain_hard
+enrollment each semester for the past five years,trend,in_domain_hard
+has our account balance been climbing week to week,trend,in_domain_hard
+attendance at home games season after season,trend,in_domain_hard
+are we getting more or fewer reservations each month,trend,in_domain_hard
+how did home prices move throughout 2023,trend,in_domain_hard
+sensor temperature readings hour by hour yesterday,trend,in_domain_hard
+library checkouts week over week,trend,in_domain_hard
+"shipping delays, are they getting worse as the year goes on",trend,in_domain_hard
+follower counts across the last 12 months,trend,in_domain_hard
+how has the defect rate evolved since we added the new line,trend,in_domain_hard
+daily sales for the past month plotted out,trend,in_domain_hard
+did avg billing rise or fall each quarter,trend,in_domain_hard
+how have flight delays changed through the summer,trend,unseen_domain
+hotel occupancy week by week this year,trend,unseen_domain
+corn yields each year since 2010,trend,unseen_domain
+daily active players since launch,trend,unseen_domain
+electricity demand hour by hour last tuesday,trend,unseen_domain
+are insurance claims going up each quarter,trend,unseen_domain
+rental bookings season by season,trend,unseen_domain
+data usage month to month from january through june,trend,unseen_domain
+has the price of jet fuel been rising lately,trend,unseen_domain
+room cancellations every week since march,trend,unseen_domain
+milk production on the dairy farm year after year,trend,unseen_domain
+how did in-game revenue evolve after the last patch,trend,unseen_domain
+solar output across each month of 2024,trend,unseen_domain
+claim payouts quarter over quarter,trend,unseen_domain
+dropped calls each day during the storm week,trend,unseen_domain

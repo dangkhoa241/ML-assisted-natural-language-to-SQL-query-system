@@ -23,7 +23,7 @@ This is an enhanced version of the original project:
   runtime and derives its column types, categories, and values from the data itself, so the same code works
   on a sales dataset, an HR dataset, a student dataset, and so on, unmodified.
 * **Retrained the intent classifier on a domain-neutral dataset** — `intent_dataset.csv` previously contained
-  only healthcare-phrased questions. It now contains 1,250 examples (250 per intent) spanning 14 domains
+  only healthcare-phrased questions. It now contains 2,000 examples (400 per intent) spanning 14 domains
   (retail, education, HR, finance, sports, restaurants, real estate, IoT, library, logistics, social media,
   manufacturing, ecommerce, healthcare) so the BERT classifier generalizes instead of overfitting to one
   domain's vocabulary.
@@ -91,6 +91,11 @@ data/
 
 intent_model/              # Saved fine-tuned BERT intent classification model (after training)
 
+eval/
+  intent_hard_test.csv      # 150 hand-written hard test questions (see "Evaluation" below)
+  evaluate_intent.py         # Compares BERT against keyword and TF-IDF baselines
+  results/                    # Generated metrics, comparison table, misclassified examples
+
 src/
   app.py                    # Streamlit entry point — thin orchestrator wiring the pieces together
   data_context.py            # CSV loading, type inference, SQLite table setup
@@ -119,7 +124,7 @@ The intent classification model is built by fine-tuning a **BERT-based Transform
 ### Training Dataset
 
 * Source file: `data/intent_dataset.csv`
-* 1,250 examples (250 per intent) spanning 14 domains — retail, education, HR, finance, sports,
+* 2,000 examples (400 per intent) spanning 14 domains — retail, education, HR, finance, sports,
   restaurants, real estate, IoT, library, logistics, social media, manufacturing, ecommerce, and
   healthcare — so the classifier isn't tied to healthcare phrasing
 * Each sample contains:
@@ -150,6 +155,83 @@ The fine-tuned BERT intent model enables:
 * Accurate understanding of user analytical goals
 * Reduced ambiguity before SQL generation
 * Automatic and correct chart type selection
+
+---
+
+## 📊 Evaluation
+
+### Why a hard test set
+
+The notebook's validation split (50% of `intent_dataset.csv`) comes from the same templated, synthetic
+distribution as the training data. On it, BERT scores 100%, but a TF-IDF + logistic regression baseline
+also scores 99.9%. That split can't tell the models apart, so it doesn't justify using BERT.
+
+`eval/intent_hard_test.csv` contains 150 hand-written questions (30 per intent):
+
+* **`in_domain_hard` (75):** domains that appear in training, phrased the way people actually type. The
+  questions mostly avoid trigger words like "how many", "average", "compare" and "trend", and they include
+  typos, lowercase text without punctuation, multi-clause questions and indirect phrasing ("are men or
+  women billed more", "which month did we sell the most").
+* **`unseen_domain` (75):** domains that don't appear in training: airlines, hotels, agriculture, gaming,
+  energy, insurance claims, car rental and telecom.
+
+No hard-set question is an exact or near duplicate of a training question (every difflib ratio is ≤ 0.75).
+Labels follow what each intent does in `sql_builder.py`:
+
+| Intent | What the SQL returns |
+|---|---|
+| filter | matching rows |
+| count | one row count |
+| aggregate | a numeric metric per group |
+| compare | a metric for a few named groups |
+| trend | a metric over time buckets |
+
+### Results
+
+Run `python eval/evaluate_intent.py`. You need `requirements-train.txt` installed and a trained
+`intent_model/`. The script rebuilds the notebook's exact train/val split and trains the
+TF-IDF baseline on the same 1,000 training rows that BERT used. Full output, including confusion
+matrices, is in `eval/results/`.
+
+| Model | val (n=1000) | hard (n=150) | in_domain_hard (n=75) | unseen_domain (n=75) |
+|---|---|---|---|---|
+| Keyword fallback | 0.657 / 0.669 | 0.240 / 0.136 | 0.240 / 0.133 | 0.240 / 0.139 |
+| TF-IDF (1-2 gram) + LogReg | 0.999 / 0.999 | 0.693 / 0.689 | 0.667 / 0.662 | 0.720 / 0.718 |
+| BERT (fine-tuned) | 1.000 / 1.000 | 0.847 / 0.841 | 0.853 / 0.837 | 0.840 / 0.844 |
+
+*Cells are accuracy / macro-F1.*
+
+Per-class F1 on the hard set:
+
+| Model | aggregate | compare | count | filter | trend |
+|---|---|---|---|---|---|
+| Keyword fallback | 0.10 | 0.00 | 0.21 | 0.38 | 0.00 |
+| TF-IDF + LogReg | 0.69 | 0.77 | 0.55 | 0.67 | 0.77 |
+| BERT | 0.90 | 0.95 | 0.64 | 0.80 | 0.92 |
+
+### What this shows
+
+* **BERT is clearly better than the baselines once phrasing stops being templated.** On the hard set it
+  beats TF-IDF by about 15 accuracy points (0.85 vs 0.69). The gap is largest on aggregate, compare and
+  trend, where BERT recognizes indirect phrasing such as "what do houses go for in each neighborhood",
+  "is fedex faster than ups" and "has the price of jet fuel been rising lately". TF-IDF has no n-gram
+  match for these.
+* **The val split overstates every model.** BERT drops from 100% to about 85%, and TF-IDF drops from 99.9%
+  to about 69%. Treat the val score as a sanity check, not an accuracy estimate.
+* **Count is BERT's weak spot (F1 0.64, recall 15/30).** If a question doesn't contain "how many" or
+  "count", BERT usually predicts filter ("vacant rooms tonight, just the number", "employees on parental
+  leave right now - just a number please"). Typos in the trigger phrase ("how manny", "hw mny") break it
+  too. This is the most useful thing to fix in the training data.
+* **New domains don't hurt BERT much here** (0.84 unseen vs 0.85 in-domain). With 75 rows per subset,
+  though, the 95% confidence interval is about ±8 points, so this difference isn't meaningful. The
+  `unseen_domain` subset tests vocabulary shift; its sentence structure is about as hard as the in-domain
+  subset's.
+* **The keyword fallback's 24% is partly by design.** Most hard-set questions deliberately avoid its
+  trigger words, so most of them fall through to "filter". The result does show how brittle the fallback
+  is on real phrasing, but it's a lower bound and shouldn't be read as a typical accuracy.
+* **Caveats:** the hard set is small (150 rows), one person wrote and labeled it, and that person knew the
+  keyword list when writing it. A few labels are judgment calls. For example, "which month did we sell the
+  most" is labeled trend because it groups by time.
 
 ---
 
