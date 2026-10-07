@@ -1,6 +1,15 @@
 # ML-Assisted Natural Language to SQL Query System
 
+> A newer version (v2) with retrieval-augmented SQL, a React + FastAPI UI and a benchmarked evaluation is at
+> https://github.com/dangkhoa241/RAG-assisted-natural-language-to-SQL-query-system
+> (live: https://nl2sql-assistant.vercel.app).
+
 **🔗 Live demo:** [ml-assisted-natural-language-to-sql-query-system.streamlit.app](https://ml-assisted-natural-language-to-sql-query-system.streamlit.app/)
+
+| | |
+|---|---|
+| [![Sample data loaded](docs/screenshots/01-data-loaded.png)](docs/screenshots/01-data-loaded.png)<br>**Sample data loaded:** preview of the built-in healthcare dataset | [![Aggregate query with bar chart](docs/screenshots/02-aggregate.png)](docs/screenshots/02-aggregate.png)<br>**Aggregate:** "average billing amount by insurance provider" |
+| [![Trend query with line chart](docs/screenshots/03-trend.png)](docs/screenshots/03-trend.png)<br>**Trend:** "trend of patient admissions by year" | [![Compare query with bar chart](docs/screenshots/04-compare.png)](docs/screenshots/04-compare.png)<br>**Compare:** "compare male and female patients by billing amount" |
 
 This project implements an end-to-end pipeline that allows users to query **any tabular CSV dataset**
 using **plain English** — not just the healthcare example dataset it ships with. Upload any CSV and
